@@ -1,0 +1,11 @@
+framework module OmerM {
+  umbrella header "OmerM.h"
+
+  export *
+  module * { export * }
+}
+
+module OmerM.Swift {
+    header "OmerM-Swift.h"
+    requires objc
+}
