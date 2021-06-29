@@ -8,38 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C7E4985D268B1A2900B6CA8B /* OmerM.h in Headers */ = {isa = PBXBuildFile; fileRef = C7E4984F268B1A2800B6CA8B /* OmerM.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C7E4988D268B1A8200B6CA8B /* BitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49866268B1A8200B6CA8B /* BitViewController.swift */; };
-		C7E4988E268B1A8200B6CA8B /* ParseValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49868268B1A8200B6CA8B /* ParseValidator.swift */; };
-		C7E4988F268B1A8200B6CA8B /* SettleSuspendedTransactionRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4986B268B1A8200B6CA8B /* SettleSuspendedTransactionRequest.swift */; };
-		C7E49890268B1A8200B6CA8B /* BaseRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4986C268B1A8200B6CA8B /* BaseRequest.swift */; };
-		C7E49891268B1A8200B6CA8B /* GetBitPaymentStatusRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4986D268B1A8200B6CA8B /* GetBitPaymentStatusRequest.swift */; };
-		C7E49892268B1A8200B6CA8B /* InitSDKRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4986E268B1A8200B6CA8B /* InitSDKRequest.swift */; };
-		C7E49893268B1A8200B6CA8B /* DoPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4986F268B1A8200B6CA8B /* DoPaymentRequest.swift */; };
-		C7E49894268B1A8200B6CA8B /* GetPaymentProcessInfoRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49870268B1A8200B6CA8B /* GetPaymentProcessInfoRequest.swift */; };
-		C7E49895268B1A8200B6CA8B /* SetBitPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49871268B1A8200B6CA8B /* SetBitPaymentRequest.swift */; };
-		C7E49896268B1A8200B6CA8B /* CreatePaymentProcessRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49872268B1A8200B6CA8B /* CreatePaymentProcessRequest.swift */; };
-		C7E49897268B1A8200B6CA8B /* CancelBitPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49873268B1A8200B6CA8B /* CancelBitPaymentRequest.swift */; };
-		C7E49898268B1A8200B6CA8B /* SetBitPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49875268B1A8200B6CA8B /* SetBitPaymentResponse.swift */; };
-		C7E49899268B1A8200B6CA8B /* GetPaymentProcessInfoResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49876268B1A8200B6CA8B /* GetPaymentProcessInfoResponse.swift */; };
-		C7E4989A268B1A8200B6CA8B /* DoPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49877268B1A8200B6CA8B /* DoPaymentResponse.swift */; };
-		C7E4989B268B1A8200B6CA8B /* GetBitPaymentStatusResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49878268B1A8200B6CA8B /* GetBitPaymentStatusResponse.swift */; };
-		C7E4989C268B1A8200B6CA8B /* BaseServerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49879268B1A8200B6CA8B /* BaseServerResponse.swift */; };
-		C7E4989D268B1A8200B6CA8B /* CancelBitPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4987A268B1A8200B6CA8B /* CancelBitPaymentResponse.swift */; };
-		C7E4989E268B1A8200B6CA8B /* InitSDKResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4987B268B1A8200B6CA8B /* InitSDKResponse.swift */; };
-		C7E4989F268B1A8200B6CA8B /* SettleSuspendedTransactionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4987C268B1A8200B6CA8B /* SettleSuspendedTransactionResponse.swift */; };
-		C7E498A0268B1A8200B6CA8B /* ErrorResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4987D268B1A8200B6CA8B /* ErrorResponse.swift */; };
-		C7E498A1268B1A8200B6CA8B /* BaseInnerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4987E268B1A8200B6CA8B /* BaseInnerResponse.swift */; };
-		C7E498A2268B1A8200B6CA8B /* CreatePaymentProcessResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4987F268B1A8200B6CA8B /* CreatePaymentProcessResponse.swift */; };
-		C7E498A3268B1A8200B6CA8B /* RequestFinishedProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49881268B1A8200B6CA8B /* RequestFinishedProtocol.swift */; };
-		C7E498A4268B1A8200B6CA8B /* MeshulamDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49882268B1A8200B6CA8B /* MeshulamDelegate.swift */; };
-		C7E498A5268B1A8200B6CA8B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49883268B1A8200B6CA8B /* Constants.swift */; };
-		C7E498A6268B1A8200B6CA8B /* MainS.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7E49884268B1A8200B6CA8B /* MainS.storyboard */; };
-		C7E498A7268B1A8200B6CA8B /* NSObjectExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49886268B1A8200B6CA8B /* NSObjectExtenstion.swift */; };
-		C7E498A8268B1A8200B6CA8B /* PaymentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49888268B1A8200B6CA8B /* PaymentManager.swift */; };
-		C7E498A9268B1A8200B6CA8B /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E49889268B1A8200B6CA8B /* NetworkManager.swift */; };
-		C7E498AA268B1A8200B6CA8B /* SessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4988A268B1A8200B6CA8B /* SessionManager.swift */; };
-		C7E498AB268B1A8200B6CA8B /* StartupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4988B268B1A8200B6CA8B /* StartupManager.swift */; };
-		C7E498AC268B1A8200B6CA8B /* Meshulam.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E4988C268B1A8200B6CA8B /* Meshulam.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,38 +16,6 @@
 		C7E49850268B1A2800B6CA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7E4985A268B1A2900B6CA8B /* OmerMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OmerMTests.swift; sourceTree = "<group>"; };
 		C7E4985C268B1A2900B6CA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C7E49866268B1A8200B6CA8B /* BitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BitViewController.swift; sourceTree = "<group>"; };
-		C7E49868268B1A8200B6CA8B /* ParseValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParseValidator.swift; sourceTree = "<group>"; };
-		C7E4986B268B1A8200B6CA8B /* SettleSuspendedTransactionRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettleSuspendedTransactionRequest.swift; sourceTree = "<group>"; };
-		C7E4986C268B1A8200B6CA8B /* BaseRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseRequest.swift; sourceTree = "<group>"; };
-		C7E4986D268B1A8200B6CA8B /* GetBitPaymentStatusRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetBitPaymentStatusRequest.swift; sourceTree = "<group>"; };
-		C7E4986E268B1A8200B6CA8B /* InitSDKRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitSDKRequest.swift; sourceTree = "<group>"; };
-		C7E4986F268B1A8200B6CA8B /* DoPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoPaymentRequest.swift; sourceTree = "<group>"; };
-		C7E49870268B1A8200B6CA8B /* GetPaymentProcessInfoRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetPaymentProcessInfoRequest.swift; sourceTree = "<group>"; };
-		C7E49871268B1A8200B6CA8B /* SetBitPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetBitPaymentRequest.swift; sourceTree = "<group>"; };
-		C7E49872268B1A8200B6CA8B /* CreatePaymentProcessRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePaymentProcessRequest.swift; sourceTree = "<group>"; };
-		C7E49873268B1A8200B6CA8B /* CancelBitPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitPaymentRequest.swift; sourceTree = "<group>"; };
-		C7E49875268B1A8200B6CA8B /* SetBitPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetBitPaymentResponse.swift; sourceTree = "<group>"; };
-		C7E49876268B1A8200B6CA8B /* GetPaymentProcessInfoResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetPaymentProcessInfoResponse.swift; sourceTree = "<group>"; };
-		C7E49877268B1A8200B6CA8B /* DoPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoPaymentResponse.swift; sourceTree = "<group>"; };
-		C7E49878268B1A8200B6CA8B /* GetBitPaymentStatusResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetBitPaymentStatusResponse.swift; sourceTree = "<group>"; };
-		C7E49879268B1A8200B6CA8B /* BaseServerResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseServerResponse.swift; sourceTree = "<group>"; };
-		C7E4987A268B1A8200B6CA8B /* CancelBitPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitPaymentResponse.swift; sourceTree = "<group>"; };
-		C7E4987B268B1A8200B6CA8B /* InitSDKResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitSDKResponse.swift; sourceTree = "<group>"; };
-		C7E4987C268B1A8200B6CA8B /* SettleSuspendedTransactionResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettleSuspendedTransactionResponse.swift; sourceTree = "<group>"; };
-		C7E4987D268B1A8200B6CA8B /* ErrorResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorResponse.swift; sourceTree = "<group>"; };
-		C7E4987E268B1A8200B6CA8B /* BaseInnerResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseInnerResponse.swift; sourceTree = "<group>"; };
-		C7E4987F268B1A8200B6CA8B /* CreatePaymentProcessResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePaymentProcessResponse.swift; sourceTree = "<group>"; };
-		C7E49881268B1A8200B6CA8B /* RequestFinishedProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestFinishedProtocol.swift; sourceTree = "<group>"; };
-		C7E49882268B1A8200B6CA8B /* MeshulamDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamDelegate.swift; sourceTree = "<group>"; };
-		C7E49883268B1A8200B6CA8B /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		C7E49884268B1A8200B6CA8B /* MainS.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainS.storyboard; sourceTree = "<group>"; };
-		C7E49886268B1A8200B6CA8B /* NSObjectExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSObjectExtenstion.swift; sourceTree = "<group>"; };
-		C7E49888268B1A8200B6CA8B /* PaymentManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentManager.swift; sourceTree = "<group>"; };
-		C7E49889268B1A8200B6CA8B /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
-		C7E4988A268B1A8200B6CA8B /* SessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SessionManager.swift; sourceTree = "<group>"; };
-		C7E4988B268B1A8200B6CA8B /* StartupManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartupManager.swift; sourceTree = "<group>"; };
-		C7E4988C268B1A8200B6CA8B /* Meshulam.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meshulam.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,15 +51,6 @@
 			children = (
 				C7E4984F268B1A2800B6CA8B /* OmerM.h */,
 				C7E49850268B1A2800B6CA8B /* Info.plist */,
-				C7E49869268B1A8200B6CA8B /* Api */,
-				C7E49866268B1A8200B6CA8B /* BitViewController.swift */,
-				C7E49883268B1A8200B6CA8B /* Constants.swift */,
-				C7E49885268B1A8200B6CA8B /* Extenstions */,
-				C7E49884268B1A8200B6CA8B /* MainS.storyboard */,
-				C7E49887268B1A8200B6CA8B /* Managers */,
-				C7E4988C268B1A8200B6CA8B /* Meshulam.swift */,
-				C7E49880268B1A8200B6CA8B /* Protocols */,
-				C7E49867268B1A8200B6CA8B /* Validators */,
 			);
 			path = OmerM;
 			sourceTree = "<group>";
@@ -135,85 +62,6 @@
 				C7E4985C268B1A2900B6CA8B /* Info.plist */,
 			);
 			path = OmerMTests;
-			sourceTree = "<group>";
-		};
-		C7E49867268B1A8200B6CA8B /* Validators */ = {
-			isa = PBXGroup;
-			children = (
-				C7E49868268B1A8200B6CA8B /* ParseValidator.swift */,
-			);
-			path = Validators;
-			sourceTree = "<group>";
-		};
-		C7E49869268B1A8200B6CA8B /* Api */ = {
-			isa = PBXGroup;
-			children = (
-				C7E4986A268B1A8200B6CA8B /* Requestes */,
-				C7E49874268B1A8200B6CA8B /* Responses */,
-			);
-			path = Api;
-			sourceTree = "<group>";
-		};
-		C7E4986A268B1A8200B6CA8B /* Requestes */ = {
-			isa = PBXGroup;
-			children = (
-				C7E4986B268B1A8200B6CA8B /* SettleSuspendedTransactionRequest.swift */,
-				C7E4986C268B1A8200B6CA8B /* BaseRequest.swift */,
-				C7E4986D268B1A8200B6CA8B /* GetBitPaymentStatusRequest.swift */,
-				C7E4986E268B1A8200B6CA8B /* InitSDKRequest.swift */,
-				C7E4986F268B1A8200B6CA8B /* DoPaymentRequest.swift */,
-				C7E49870268B1A8200B6CA8B /* GetPaymentProcessInfoRequest.swift */,
-				C7E49871268B1A8200B6CA8B /* SetBitPaymentRequest.swift */,
-				C7E49872268B1A8200B6CA8B /* CreatePaymentProcessRequest.swift */,
-				C7E49873268B1A8200B6CA8B /* CancelBitPaymentRequest.swift */,
-			);
-			path = Requestes;
-			sourceTree = "<group>";
-		};
-		C7E49874268B1A8200B6CA8B /* Responses */ = {
-			isa = PBXGroup;
-			children = (
-				C7E49875268B1A8200B6CA8B /* SetBitPaymentResponse.swift */,
-				C7E49876268B1A8200B6CA8B /* GetPaymentProcessInfoResponse.swift */,
-				C7E49877268B1A8200B6CA8B /* DoPaymentResponse.swift */,
-				C7E49878268B1A8200B6CA8B /* GetBitPaymentStatusResponse.swift */,
-				C7E49879268B1A8200B6CA8B /* BaseServerResponse.swift */,
-				C7E4987A268B1A8200B6CA8B /* CancelBitPaymentResponse.swift */,
-				C7E4987B268B1A8200B6CA8B /* InitSDKResponse.swift */,
-				C7E4987C268B1A8200B6CA8B /* SettleSuspendedTransactionResponse.swift */,
-				C7E4987D268B1A8200B6CA8B /* ErrorResponse.swift */,
-				C7E4987E268B1A8200B6CA8B /* BaseInnerResponse.swift */,
-				C7E4987F268B1A8200B6CA8B /* CreatePaymentProcessResponse.swift */,
-			);
-			path = Responses;
-			sourceTree = "<group>";
-		};
-		C7E49880268B1A8200B6CA8B /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				C7E49881268B1A8200B6CA8B /* RequestFinishedProtocol.swift */,
-				C7E49882268B1A8200B6CA8B /* MeshulamDelegate.swift */,
-			);
-			path = Protocols;
-			sourceTree = "<group>";
-		};
-		C7E49885268B1A8200B6CA8B /* Extenstions */ = {
-			isa = PBXGroup;
-			children = (
-				C7E49886268B1A8200B6CA8B /* NSObjectExtenstion.swift */,
-			);
-			path = Extenstions;
-			sourceTree = "<group>";
-		};
-		C7E49887268B1A8200B6CA8B /* Managers */ = {
-			isa = PBXGroup;
-			children = (
-				C7E49888268B1A8200B6CA8B /* PaymentManager.swift */,
-				C7E49889268B1A8200B6CA8B /* NetworkManager.swift */,
-				C7E4988A268B1A8200B6CA8B /* SessionManager.swift */,
-				C7E4988B268B1A8200B6CA8B /* StartupManager.swift */,
-			);
-			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,7 +134,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7E498A6268B1A8200B6CA8B /* MainS.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,37 +144,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7E498A5268B1A8200B6CA8B /* Constants.swift in Sources */,
-				C7E49899268B1A8200B6CA8B /* GetPaymentProcessInfoResponse.swift in Sources */,
-				C7E49890268B1A8200B6CA8B /* BaseRequest.swift in Sources */,
-				C7E498A8268B1A8200B6CA8B /* PaymentManager.swift in Sources */,
-				C7E4989F268B1A8200B6CA8B /* SettleSuspendedTransactionResponse.swift in Sources */,
-				C7E498AB268B1A8200B6CA8B /* StartupManager.swift in Sources */,
-				C7E498AA268B1A8200B6CA8B /* SessionManager.swift in Sources */,
-				C7E498A2268B1A8200B6CA8B /* CreatePaymentProcessResponse.swift in Sources */,
-				C7E49891268B1A8200B6CA8B /* GetBitPaymentStatusRequest.swift in Sources */,
-				C7E498AC268B1A8200B6CA8B /* Meshulam.swift in Sources */,
-				C7E49893268B1A8200B6CA8B /* DoPaymentRequest.swift in Sources */,
-				C7E4989C268B1A8200B6CA8B /* BaseServerResponse.swift in Sources */,
-				C7E4989E268B1A8200B6CA8B /* InitSDKResponse.swift in Sources */,
-				C7E49894268B1A8200B6CA8B /* GetPaymentProcessInfoRequest.swift in Sources */,
-				C7E49896268B1A8200B6CA8B /* CreatePaymentProcessRequest.swift in Sources */,
-				C7E498A3268B1A8200B6CA8B /* RequestFinishedProtocol.swift in Sources */,
-				C7E4988E268B1A8200B6CA8B /* ParseValidator.swift in Sources */,
-				C7E4989D268B1A8200B6CA8B /* CancelBitPaymentResponse.swift in Sources */,
-				C7E4989B268B1A8200B6CA8B /* GetBitPaymentStatusResponse.swift in Sources */,
-				C7E49898268B1A8200B6CA8B /* SetBitPaymentResponse.swift in Sources */,
-				C7E4989A268B1A8200B6CA8B /* DoPaymentResponse.swift in Sources */,
-				C7E498A4268B1A8200B6CA8B /* MeshulamDelegate.swift in Sources */,
-				C7E498A1268B1A8200B6CA8B /* BaseInnerResponse.swift in Sources */,
-				C7E4988D268B1A8200B6CA8B /* BitViewController.swift in Sources */,
-				C7E498A7268B1A8200B6CA8B /* NSObjectExtenstion.swift in Sources */,
-				C7E498A0268B1A8200B6CA8B /* ErrorResponse.swift in Sources */,
-				C7E49892268B1A8200B6CA8B /* InitSDKRequest.swift in Sources */,
-				C7E498A9268B1A8200B6CA8B /* NetworkManager.swift in Sources */,
-				C7E4988F268B1A8200B6CA8B /* SettleSuspendedTransactionRequest.swift in Sources */,
-				C7E49895268B1A8200B6CA8B /* SetBitPaymentRequest.swift in Sources */,
-				C7E49897268B1A8200B6CA8B /* CancelBitPaymentRequest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
