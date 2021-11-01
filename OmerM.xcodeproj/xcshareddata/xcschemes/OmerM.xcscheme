@@ -62,6 +62,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "OmerM"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
