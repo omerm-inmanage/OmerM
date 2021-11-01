@@ -4,3 +4,8 @@ framework module OmerM {
   export *
   module * { export * }
 }
+
+module OmerM.Swift {
+    header "OmerM-Swift.h"
+    requires objc
+}

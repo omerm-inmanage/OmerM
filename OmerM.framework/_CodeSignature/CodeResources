@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/OmerM-Swift.h</key>
+		<data>
+		F/tQTdpFHomNNQZpSE2yXKDrsqw=
+		</data>
 		<key>Headers/OmerM.h</key>
 		<data>
 		81cRCIgJ4rPlenTC/V2/pKx+mP4=
@@ -12,13 +16,52 @@
 		<data>
 		FfWPnOEbVcAhqrq7mloZgVWapEw=
 		</data>
+		<key>Modules/OmerM.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		+8uYQvfzCHXESoPN2kut/aY9JcI=
+		</data>
+		<key>Modules/OmerM.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		+8uYQvfzCHXESoPN2kut/aY9JcI=
+		</data>
+		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		iigpe0FzN9o7KRf9yUSAdyCVRFg=
+		</data>
+		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		ynh38Q7cEhNyaVG6TYxooWL9EVU=
+		</data>
+		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		AcbrcftQHU65iibGIeienoGAec4=
+		</data>
+		<key>Modules/OmerM.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		iigpe0FzN9o7KRf9yUSAdyCVRFg=
+		</data>
+		<key>Modules/OmerM.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		ynh38Q7cEhNyaVG6TYxooWL9EVU=
+		</data>
+		<key>Modules/OmerM.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		AcbrcftQHU65iibGIeienoGAec4=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		88eXcXyepbvzjOeGM+Hpc8uqfBg=
+		DZC/qIlj8kTUKFHZx+9A609draw=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/OmerM-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hwQqoZbEkv8KdN6RlSQsLuzPIHKhtoxICMQcqroEFJw=
+			</data>
+		</dict>
 		<key>Headers/OmerM.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +69,67 @@
 			vmJe89lj4GkkxiW02ey5kaJHDRxQYRTQJVEu3xIMDqQ=
 			</data>
 		</dict>
+		<key>Modules/OmerM.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8gR2VBXjnSpRtxolWWF1LFue5vBu9KKbAM1oYTt0b/w=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8gR2VBXjnSpRtxolWWF1LFue5vBu9KKbAM1oYTt0b/w=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qIolx3b2Czh0Fjcy966wsg2N1EtrFdk8uQ864TASd2k=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lg2VqKZ1qwOcer/9gdlDxcNPWyJkKKeWpZyJ08ZvjKw=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PkiONUJUhd8srgvNu80S7+iOVqeQNNUaX7HJSFiBx+U=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qIolx3b2Czh0Fjcy966wsg2N1EtrFdk8uQ864TASd2k=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lg2VqKZ1qwOcer/9gdlDxcNPWyJkKKeWpZyJ08ZvjKw=
+			</data>
+		</dict>
+		<key>Modules/OmerM.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PkiONUJUhd8srgvNu80S7+iOVqeQNNUaX7HJSFiBx+U=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4wbUL8mkXSGf2AfmdOj5gpG2bBbHsiGVr7JBHLQbW8Y=
+			O+avSHfe1l3jm+jsGvtkzNiqS5vZm2/HOOSCNIPl4l4=
 			</data>
 		</dict>
 	</dict>

@@ -7,10 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7C2E218273019CD00C1CFFD /* BdikaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E217273019CD00C1CFFD /* BdikaViewController.swift */; };
 		C7E4985D268B1A2900B6CA8B /* OmerM.h in Headers */ = {isa = PBXBuildFile; fileRef = C7E4984F268B1A2800B6CA8B /* OmerM.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C7C2E217273019CD00C1CFFD /* BdikaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BdikaViewController.swift; sourceTree = "<group>"; };
 		C7E4984C268B1A2800B6CA8B /* OmerM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OmerM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7E4984F268B1A2800B6CA8B /* OmerM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OmerM.h; sourceTree = "<group>"; };
 		C7E49850268B1A2800B6CA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 			children = (
 				C7E4984F268B1A2800B6CA8B /* OmerM.h */,
 				C7E49850268B1A2800B6CA8B /* Info.plist */,
+				C7C2E217273019CD00C1CFFD /* BdikaViewController.swift */,
 			);
 			path = OmerM;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7C2E218273019CD00C1CFFD /* BdikaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
