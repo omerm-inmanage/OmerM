@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
 
   # s.exclude_files = "Classes/Exclude"
-  s.swift_version = '5.0'
+  s.swift_version = '4.2'
   s.exclude_files = "Constrictor/Constrictor/*.plist"
 
 

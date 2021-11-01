@@ -7,15 +7,5 @@ target 'testSDK' do
   
   pod 'OmerM'
 
-  # Pods for testSDK
-
-  target 'testSDKTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'testSDKUITests' do
-    # Pods for testing
-  end
 
 end

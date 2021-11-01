@@ -6,5 +6,9 @@ target 'OmerM' do
   use_frameworks!
 
   # Pods for OmerM
+  
+  pod 'Alamofire'
+  pod 'lottie-ios'
+
 
 end
