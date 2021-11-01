@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "OmerM"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A nice logger tool in Swift."
   s.description  = <<-DESC
   A nice logger tool in Swift. Cheers
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/omerm-inmanage/OmerM.git"
   s.license      = { :type => "MIT", :file => "license" }
   s.author             = { "Omer m" => "omerm@inmanage.net" }
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '11.0'
   # s.frameworks = 'OmerM'
   # s.static_framework = true
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
