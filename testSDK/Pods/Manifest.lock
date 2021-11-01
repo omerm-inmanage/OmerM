@@ -1,3 +1,20 @@
-PODFILE CHECKSUM: 1746f7e2b83010726757df3ef020b92e7c01d67a
+PODS:
+  - Alamofire (5.4.4)
+  - OmerM (0.0.2):
+    - Alamofire
 
-COCOAPODS: 1.10.1
+DEPENDENCIES:
+  - OmerM
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - OmerM
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  OmerM: 7cf7aa1d4af4041406b4af35ba66e6a14ae8651e
+
+PODFILE CHECKSUM: 173fd15bef159c7df6949a3b88455f7974937eb0
+
+COCOAPODS: 1.11.0.beta.2
