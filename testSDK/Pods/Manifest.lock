@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (5.4.4)
   - lottie-ios (3.2.3)
-  - OmerM (0.0.8):
+  - OmerM (0.0.9):
     - Alamofire
     - lottie-ios
 
@@ -17,7 +17,7 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
   lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
-  OmerM: 2a853d6bdbc385d5074083f0b0fcb4b0f381ee0c
+  OmerM: 9e3ae345a672c8d8e8916a9eb1837b0ff2357937
 
 PODFILE CHECKSUM: 334e3bdaf3c3e0a1ee71531316897e177324b5a8
 
