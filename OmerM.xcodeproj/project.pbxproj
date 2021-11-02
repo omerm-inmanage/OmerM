@@ -7,65 +7,65 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C7C2E25C2730299400C1CFFD /* PopupInfoObj.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E21A2730299300C1CFFD /* PopupInfoObj.swift */; };
-		C7C2E25D2730299400C1CFFD /* MeshulamParseValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E21C2730299300C1CFFD /* MeshulamParseValidator.swift */; };
-		C7C2E25E2730299400C1CFFD /* PopupViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E21E2730299300C1CFFD /* PopupViewControllerDelegate.swift */; };
-		C7C2E25F2730299400C1CFFD /* MeshulamDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E21F2730299300C1CFFD /* MeshulamDelegate.swift */; };
-		C7C2E2602730299400C1CFFD /* MeshulamRequestFinishedProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2202730299300C1CFFD /* MeshulamRequestFinishedProtocol.swift */; };
-		C7C2E2612730299400C1CFFD /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2212730299300C1CFFD /* Constants.swift */; };
-		C7C2E2622730299400C1CFFD /* UIBottonExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2232730299300C1CFFD /* UIBottonExtenstion.swift */; };
-		C7C2E2632730299400C1CFFD /* UIViewExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2242730299300C1CFFD /* UIViewExtenstion.swift */; };
-		C7C2E2642730299400C1CFFD /* NSObjectExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2252730299300C1CFFD /* NSObjectExtenstion.swift */; };
-		C7C2E2652730299400C1CFFD /* UIApplicationExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2262730299300C1CFFD /* UIApplicationExtenstion.swift */; };
-		C7C2E2662730299400C1CFFD /* FontExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2272730299300C1CFFD /* FontExtenstion.swift */; };
-		C7C2E2672730299400C1CFFD /* StringExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2282730299300C1CFFD /* StringExtenstion.swift */; };
-		C7C2E2682730299400C1CFFD /* BitStatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E22A2730299300C1CFFD /* BitStatusViewController.swift */; };
-		C7C2E2692730299400C1CFFD /* MeshulamPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E22B2730299400C1CFFD /* MeshulamPopupViewController.swift */; };
-		C7C2E26A2730299400C1CFFD /* Gallery.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E22C2730299400C1CFFD /* Gallery.xcassets */; };
-		C7C2E26B2730299400C1CFFD /* SettleSuspendedTransactionRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E22F2730299400C1CFFD /* SettleSuspendedTransactionRequest.swift */; };
-		C7C2E26C2730299400C1CFFD /* GetBitPaymentStatusRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2302730299400C1CFFD /* GetBitPaymentStatusRequest.swift */; };
-		C7C2E26D2730299400C1CFFD /* InitSDKRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2312730299400C1CFFD /* InitSDKRequest.swift */; };
-		C7C2E26E2730299400C1CFFD /* DoPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2322730299400C1CFFD /* DoPaymentRequest.swift */; };
-		C7C2E26F2730299400C1CFFD /* MeshulamBaseRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2332730299400C1CFFD /* MeshulamBaseRequest.swift */; };
-		C7C2E2702730299400C1CFFD /* GetPaymentProcessInfoRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2342730299400C1CFFD /* GetPaymentProcessInfoRequest.swift */; };
-		C7C2E2712730299400C1CFFD /* CancelBitTransactionRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2352730299400C1CFFD /* CancelBitTransactionRequest.swift */; };
-		C7C2E2722730299400C1CFFD /* SetBitPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2362730299400C1CFFD /* SetBitPaymentRequest.swift */; };
-		C7C2E2732730299400C1CFFD /* CreatePaymentProcessRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2372730299400C1CFFD /* CreatePaymentProcessRequest.swift */; };
-		C7C2E2742730299400C1CFFD /* CancelBitPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2382730299400C1CFFD /* CancelBitPaymentRequest.swift */; };
-		C7C2E2752730299400C1CFFD /* SetBitPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E23A2730299400C1CFFD /* SetBitPaymentResponse.swift */; };
-		C7C2E2762730299400C1CFFD /* GetPaymentProcessInfoResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E23B2730299400C1CFFD /* GetPaymentProcessInfoResponse.swift */; };
-		C7C2E2772730299400C1CFFD /* DoPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E23C2730299400C1CFFD /* DoPaymentResponse.swift */; };
-		C7C2E2782730299400C1CFFD /* GetBitPaymentStatusResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E23D2730299400C1CFFD /* GetBitPaymentStatusResponse.swift */; };
-		C7C2E2792730299400C1CFFD /* CancelBitPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E23E2730299400C1CFFD /* CancelBitPaymentResponse.swift */; };
-		C7C2E27A2730299400C1CFFD /* CancelBitTransactionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E23F2730299400C1CFFD /* CancelBitTransactionResponse.swift */; };
-		C7C2E27B2730299400C1CFFD /* MeshulamBaseServerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2402730299400C1CFFD /* MeshulamBaseServerResponse.swift */; };
-		C7C2E27C2730299400C1CFFD /* InitSDKResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2412730299400C1CFFD /* InitSDKResponse.swift */; };
-		C7C2E27D2730299400C1CFFD /* SettleSuspendedTransactionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2422730299400C1CFFD /* SettleSuspendedTransactionResponse.swift */; };
-		C7C2E27E2730299400C1CFFD /* ErrorResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2432730299400C1CFFD /* ErrorResponse.swift */; };
-		C7C2E27F2730299400C1CFFD /* BaseInnerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2442730299400C1CFFD /* BaseInnerResponse.swift */; };
-		C7C2E2802730299400C1CFFD /* CreatePaymentProcessResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2452730299400C1CFFD /* CreatePaymentProcessResponse.swift */; };
-		C7C2E2812730299400C1CFFD /* MainS.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2462730299400C1CFFD /* MainS.storyboard */; };
-		C7C2E2822730299400C1CFFD /* Meshulam.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2472730299400C1CFFD /* Meshulam.swift */; };
-		C7C2E2832730299400C1CFFD /* MeshulamNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */; };
-		C7C2E2842730299400C1CFFD /* MeshulamPaymentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E24A2730299400C1CFFD /* MeshulamPaymentManager.swift */; };
-		C7C2E2852730299400C1CFFD /* MeshulamStartupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E24B2730299400C1CFFD /* MeshulamStartupManager.swift */; };
-		C7C2E2862730299400C1CFFD /* MeshulamPopupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E24C2730299400C1CFFD /* MeshulamPopupManager.swift */; };
-		C7C2E2872730299400C1CFFD /* MeshulamSessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E24D2730299400C1CFFD /* MeshulamSessionManager.swift */; };
-		C7C2E2882730299400C1CFFD /* Heebo-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E24F2730299400C1CFFD /* Heebo-Thin.ttf */; };
-		C7C2E2892730299400C1CFFD /* Heebo-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2502730299400C1CFFD /* Heebo-Medium.ttf */; };
-		C7C2E28A2730299400C1CFFD /* Heebo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2512730299400C1CFFD /* Heebo-Black.ttf */; };
-		C7C2E28B2730299400C1CFFD /* Heebo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2522730299400C1CFFD /* Heebo-Bold.ttf */; };
-		C7C2E28C2730299400C1CFFD /* Gallery.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2532730299400C1CFFD /* Gallery.xcassets */; };
-		C7C2E28D2730299400C1CFFD /* Heebo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2542730299400C1CFFD /* Heebo-Regular.ttf */; };
-		C7C2E28E2730299400C1CFFD /* Heebo-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2552730299400C1CFFD /* Heebo-ExtraBold.ttf */; };
-		C7C2E28F2730299400C1CFFD /* loader.json in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2562730299400C1CFFD /* loader.json */; };
-		C7C2E2902730299400C1CFFD /* MeshulamPopup.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2572730299400C1CFFD /* MeshulamPopup.storyboard */; };
-		C7C2E2912730299400C1CFFD /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2592730299400C1CFFD /* OFL.txt */; };
-		C7C2E2922730299400C1CFFD /* MeshulamMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E25A2730299400C1CFFD /* MeshulamMain.storyboard */; };
-		C7C2E2932730299400C1CFFD /* Heebo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E25B2730299400C1CFFD /* Heebo-Light.ttf */; };
 		C7C2E29527302B3D00C1CFFD /* BdikaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E29427302B3D00C1CFFD /* BdikaViewController.swift */; };
 		C7C2E29627302CD300C1CFFD /* Pods_OmerM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C9B70257916F09351ED5276 /* Pods_OmerM.framework */; };
 		C7C2E29727302CD300C1CFFD /* Pods_OmerM.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 7C9B70257916F09351ED5276 /* Pods_OmerM.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C7C2E2DC273114F900C1CFFD /* MeshulamNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E29A273114F700C1CFFD /* MeshulamNetworkManager.swift */; };
+		C7C2E2DD273114F900C1CFFD /* MeshulamPaymentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E29B273114F700C1CFFD /* MeshulamPaymentManager.swift */; };
+		C7C2E2DE273114F900C1CFFD /* MeshulamStartupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E29C273114F700C1CFFD /* MeshulamStartupManager.swift */; };
+		C7C2E2DF273114F900C1CFFD /* MeshulamPopupManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E29D273114F700C1CFFD /* MeshulamPopupManager.swift */; };
+		C7C2E2E0273114F900C1CFFD /* MeshulamSessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E29E273114F700C1CFFD /* MeshulamSessionManager.swift */; };
+		C7C2E2E1273114F900C1CFFD /* PopupViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2A0273114F700C1CFFD /* PopupViewControllerDelegate.swift */; };
+		C7C2E2E2273114F900C1CFFD /* MeshulamDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2A1273114F700C1CFFD /* MeshulamDelegate.swift */; };
+		C7C2E2E3273114F900C1CFFD /* MeshulamRequestFinishedProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2A2273114F700C1CFFD /* MeshulamRequestFinishedProtocol.swift */; };
+		C7C2E2E4273114F900C1CFFD /* BitStatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2A4273114F700C1CFFD /* BitStatusViewController.swift */; };
+		C7C2E2E5273114F900C1CFFD /* MeshulamPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2A5273114F700C1CFFD /* MeshulamPopupViewController.swift */; };
+		C7C2E2E6273114F900C1CFFD /* PopupInfoObj.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2A7273114F800C1CFFD /* PopupInfoObj.swift */; };
+		C7C2E2E7273114F900C1CFFD /* Heebo-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2A9273114F800C1CFFD /* Heebo-Thin.ttf */; };
+		C7C2E2E8273114F900C1CFFD /* Heebo-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2AA273114F800C1CFFD /* Heebo-Medium.ttf */; };
+		C7C2E2E9273114F900C1CFFD /* Heebo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2AB273114F800C1CFFD /* Heebo-Black.ttf */; };
+		C7C2E2EA273114F900C1CFFD /* Heebo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2AC273114F800C1CFFD /* Heebo-Bold.ttf */; };
+		C7C2E2EB273114F900C1CFFD /* Gallery.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2AD273114F800C1CFFD /* Gallery.xcassets */; };
+		C7C2E2EC273114F900C1CFFD /* Heebo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2AE273114F800C1CFFD /* Heebo-Regular.ttf */; };
+		C7C2E2ED273114F900C1CFFD /* Heebo-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2AF273114F800C1CFFD /* Heebo-ExtraBold.ttf */; };
+		C7C2E2EE273114F900C1CFFD /* loader.json in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2B0273114F800C1CFFD /* loader.json */; };
+		C7C2E2EF273114F900C1CFFD /* MeshulamPopup.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2B1273114F800C1CFFD /* MeshulamPopup.storyboard */; };
+		C7C2E2F0273114F900C1CFFD /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2B3273114F800C1CFFD /* OFL.txt */; };
+		C7C2E2F1273114F900C1CFFD /* MeshulamMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2B4273114F800C1CFFD /* MeshulamMain.storyboard */; };
+		C7C2E2F2273114F900C1CFFD /* Heebo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2B5273114F800C1CFFD /* Heebo-Light.ttf */; };
+		C7C2E2F3273114F900C1CFFD /* MeshulamParseValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2B7273114F800C1CFFD /* MeshulamParseValidator.swift */; };
+		C7C2E2F4273114F900C1CFFD /* UIBottonExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2B9273114F800C1CFFD /* UIBottonExtenstion.swift */; };
+		C7C2E2F5273114F900C1CFFD /* UIViewExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2BA273114F800C1CFFD /* UIViewExtenstion.swift */; };
+		C7C2E2F6273114F900C1CFFD /* NSObjectExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2BB273114F800C1CFFD /* NSObjectExtenstion.swift */; };
+		C7C2E2F7273114F900C1CFFD /* UIApplicationExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2BC273114F800C1CFFD /* UIApplicationExtenstion.swift */; };
+		C7C2E2F8273114F900C1CFFD /* FontExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2BD273114F800C1CFFD /* FontExtenstion.swift */; };
+		C7C2E2F9273114F900C1CFFD /* StringExtenstion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2BE273114F800C1CFFD /* StringExtenstion.swift */; };
+		C7C2E2FA273114F900C1CFFD /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2BF273114F800C1CFFD /* Constants.swift */; };
+		C7C2E2FB273114F900C1CFFD /* SettleSuspendedTransactionRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C2273114F800C1CFFD /* SettleSuspendedTransactionRequest.swift */; };
+		C7C2E2FC273114F900C1CFFD /* GetBitPaymentStatusRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C3273114F800C1CFFD /* GetBitPaymentStatusRequest.swift */; };
+		C7C2E2FD273114F900C1CFFD /* InitSDKRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C4273114F800C1CFFD /* InitSDKRequest.swift */; };
+		C7C2E2FE273114F900C1CFFD /* DoPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C5273114F800C1CFFD /* DoPaymentRequest.swift */; };
+		C7C2E2FF273114F900C1CFFD /* MeshulamBaseRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C6273114F800C1CFFD /* MeshulamBaseRequest.swift */; };
+		C7C2E300273114F900C1CFFD /* GetPaymentProcessInfoRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C7273114F800C1CFFD /* GetPaymentProcessInfoRequest.swift */; };
+		C7C2E301273114F900C1CFFD /* CancelBitTransactionRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C8273114F800C1CFFD /* CancelBitTransactionRequest.swift */; };
+		C7C2E302273114F900C1CFFD /* SetBitPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2C9273114F800C1CFFD /* SetBitPaymentRequest.swift */; };
+		C7C2E303273114F900C1CFFD /* CreatePaymentProcessRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2CA273114F800C1CFFD /* CreatePaymentProcessRequest.swift */; };
+		C7C2E304273114F900C1CFFD /* CancelBitPaymentRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2CB273114F800C1CFFD /* CancelBitPaymentRequest.swift */; };
+		C7C2E305273114F900C1CFFD /* SetBitPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2CD273114F800C1CFFD /* SetBitPaymentResponse.swift */; };
+		C7C2E306273114F900C1CFFD /* GetPaymentProcessInfoResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2CE273114F800C1CFFD /* GetPaymentProcessInfoResponse.swift */; };
+		C7C2E307273114F900C1CFFD /* DoPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2CF273114F800C1CFFD /* DoPaymentResponse.swift */; };
+		C7C2E308273114F900C1CFFD /* GetBitPaymentStatusResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D0273114F800C1CFFD /* GetBitPaymentStatusResponse.swift */; };
+		C7C2E309273114F900C1CFFD /* CancelBitPaymentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D1273114F800C1CFFD /* CancelBitPaymentResponse.swift */; };
+		C7C2E30A273114F900C1CFFD /* CancelBitTransactionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D2273114F800C1CFFD /* CancelBitTransactionResponse.swift */; };
+		C7C2E30B273114F900C1CFFD /* MeshulamBaseServerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D3273114F800C1CFFD /* MeshulamBaseServerResponse.swift */; };
+		C7C2E30C273114F900C1CFFD /* InitSDKResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D4273114F800C1CFFD /* InitSDKResponse.swift */; };
+		C7C2E30D273114F900C1CFFD /* SettleSuspendedTransactionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D5273114F800C1CFFD /* SettleSuspendedTransactionResponse.swift */; };
+		C7C2E30E273114F900C1CFFD /* ErrorResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D6273114F800C1CFFD /* ErrorResponse.swift */; };
+		C7C2E30F273114F900C1CFFD /* BaseInnerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D7273114F800C1CFFD /* BaseInnerResponse.swift */; };
+		C7C2E310273114F900C1CFFD /* CreatePaymentProcessResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2D8273114F800C1CFFD /* CreatePaymentProcessResponse.swift */; };
+		C7C2E311273114F900C1CFFD /* MainS.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2D9273114F800C1CFFD /* MainS.storyboard */; };
+		C7C2E312273114F900C1CFFD /* Meshulam.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E2DA273114F800C1CFFD /* Meshulam.swift */; };
+		C7C2E313273114F900C1CFFD /* Gallery.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7C2E2DB273114F800C1CFFD /* Gallery.xcassets */; };
 		C7E4985D268B1A2900B6CA8B /* OmerM.h in Headers */ = {isa = PBXBuildFile; fileRef = C7E4984F268B1A2800B6CA8B /* OmerM.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -87,63 +87,63 @@
 		2F1238DF90E5B38A2D05D6CA /* Pods-OmerM.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OmerM.release.xcconfig"; path = "Target Support Files/Pods-OmerM/Pods-OmerM.release.xcconfig"; sourceTree = "<group>"; };
 		7744E7E5285F06BD1260FB33 /* Pods-OmerM.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OmerM.debug.xcconfig"; path = "Target Support Files/Pods-OmerM/Pods-OmerM.debug.xcconfig"; sourceTree = "<group>"; };
 		7C9B70257916F09351ED5276 /* Pods_OmerM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OmerM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C7C2E21A2730299300C1CFFD /* PopupInfoObj.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupInfoObj.swift; sourceTree = "<group>"; };
-		C7C2E21C2730299300C1CFFD /* MeshulamParseValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamParseValidator.swift; sourceTree = "<group>"; };
-		C7C2E21E2730299300C1CFFD /* PopupViewControllerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupViewControllerDelegate.swift; sourceTree = "<group>"; };
-		C7C2E21F2730299300C1CFFD /* MeshulamDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamDelegate.swift; sourceTree = "<group>"; };
-		C7C2E2202730299300C1CFFD /* MeshulamRequestFinishedProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamRequestFinishedProtocol.swift; sourceTree = "<group>"; };
-		C7C2E2212730299300C1CFFD /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		C7C2E2232730299300C1CFFD /* UIBottonExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIBottonExtenstion.swift; sourceTree = "<group>"; };
-		C7C2E2242730299300C1CFFD /* UIViewExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtenstion.swift; sourceTree = "<group>"; };
-		C7C2E2252730299300C1CFFD /* NSObjectExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSObjectExtenstion.swift; sourceTree = "<group>"; };
-		C7C2E2262730299300C1CFFD /* UIApplicationExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplicationExtenstion.swift; sourceTree = "<group>"; };
-		C7C2E2272730299300C1CFFD /* FontExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontExtenstion.swift; sourceTree = "<group>"; };
-		C7C2E2282730299300C1CFFD /* StringExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtenstion.swift; sourceTree = "<group>"; };
-		C7C2E22A2730299300C1CFFD /* BitStatusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BitStatusViewController.swift; sourceTree = "<group>"; };
-		C7C2E22B2730299400C1CFFD /* MeshulamPopupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPopupViewController.swift; sourceTree = "<group>"; };
-		C7C2E22C2730299400C1CFFD /* Gallery.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Gallery.xcassets; sourceTree = "<group>"; };
-		C7C2E22F2730299400C1CFFD /* SettleSuspendedTransactionRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettleSuspendedTransactionRequest.swift; sourceTree = "<group>"; };
-		C7C2E2302730299400C1CFFD /* GetBitPaymentStatusRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetBitPaymentStatusRequest.swift; sourceTree = "<group>"; };
-		C7C2E2312730299400C1CFFD /* InitSDKRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitSDKRequest.swift; sourceTree = "<group>"; };
-		C7C2E2322730299400C1CFFD /* DoPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoPaymentRequest.swift; sourceTree = "<group>"; };
-		C7C2E2332730299400C1CFFD /* MeshulamBaseRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamBaseRequest.swift; sourceTree = "<group>"; };
-		C7C2E2342730299400C1CFFD /* GetPaymentProcessInfoRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetPaymentProcessInfoRequest.swift; sourceTree = "<group>"; };
-		C7C2E2352730299400C1CFFD /* CancelBitTransactionRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitTransactionRequest.swift; sourceTree = "<group>"; };
-		C7C2E2362730299400C1CFFD /* SetBitPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetBitPaymentRequest.swift; sourceTree = "<group>"; };
-		C7C2E2372730299400C1CFFD /* CreatePaymentProcessRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePaymentProcessRequest.swift; sourceTree = "<group>"; };
-		C7C2E2382730299400C1CFFD /* CancelBitPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitPaymentRequest.swift; sourceTree = "<group>"; };
-		C7C2E23A2730299400C1CFFD /* SetBitPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetBitPaymentResponse.swift; sourceTree = "<group>"; };
-		C7C2E23B2730299400C1CFFD /* GetPaymentProcessInfoResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetPaymentProcessInfoResponse.swift; sourceTree = "<group>"; };
-		C7C2E23C2730299400C1CFFD /* DoPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoPaymentResponse.swift; sourceTree = "<group>"; };
-		C7C2E23D2730299400C1CFFD /* GetBitPaymentStatusResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetBitPaymentStatusResponse.swift; sourceTree = "<group>"; };
-		C7C2E23E2730299400C1CFFD /* CancelBitPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitPaymentResponse.swift; sourceTree = "<group>"; };
-		C7C2E23F2730299400C1CFFD /* CancelBitTransactionResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitTransactionResponse.swift; sourceTree = "<group>"; };
-		C7C2E2402730299400C1CFFD /* MeshulamBaseServerResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamBaseServerResponse.swift; sourceTree = "<group>"; };
-		C7C2E2412730299400C1CFFD /* InitSDKResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitSDKResponse.swift; sourceTree = "<group>"; };
-		C7C2E2422730299400C1CFFD /* SettleSuspendedTransactionResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettleSuspendedTransactionResponse.swift; sourceTree = "<group>"; };
-		C7C2E2432730299400C1CFFD /* ErrorResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorResponse.swift; sourceTree = "<group>"; };
-		C7C2E2442730299400C1CFFD /* BaseInnerResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseInnerResponse.swift; sourceTree = "<group>"; };
-		C7C2E2452730299400C1CFFD /* CreatePaymentProcessResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePaymentProcessResponse.swift; sourceTree = "<group>"; };
-		C7C2E2462730299400C1CFFD /* MainS.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainS.storyboard; sourceTree = "<group>"; };
-		C7C2E2472730299400C1CFFD /* Meshulam.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meshulam.swift; sourceTree = "<group>"; };
-		C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamNetworkManager.swift; sourceTree = "<group>"; };
-		C7C2E24A2730299400C1CFFD /* MeshulamPaymentManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPaymentManager.swift; sourceTree = "<group>"; };
-		C7C2E24B2730299400C1CFFD /* MeshulamStartupManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamStartupManager.swift; sourceTree = "<group>"; };
-		C7C2E24C2730299400C1CFFD /* MeshulamPopupManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPopupManager.swift; sourceTree = "<group>"; };
-		C7C2E24D2730299400C1CFFD /* MeshulamSessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamSessionManager.swift; sourceTree = "<group>"; };
-		C7C2E24F2730299400C1CFFD /* Heebo-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Thin.ttf"; sourceTree = "<group>"; };
-		C7C2E2502730299400C1CFFD /* Heebo-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Medium.ttf"; sourceTree = "<group>"; };
-		C7C2E2512730299400C1CFFD /* Heebo-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Black.ttf"; sourceTree = "<group>"; };
-		C7C2E2522730299400C1CFFD /* Heebo-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Bold.ttf"; sourceTree = "<group>"; };
-		C7C2E2532730299400C1CFFD /* Gallery.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Gallery.xcassets; sourceTree = "<group>"; };
-		C7C2E2542730299400C1CFFD /* Heebo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Regular.ttf"; sourceTree = "<group>"; };
-		C7C2E2552730299400C1CFFD /* Heebo-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-ExtraBold.ttf"; sourceTree = "<group>"; };
-		C7C2E2562730299400C1CFFD /* loader.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loader.json; sourceTree = "<group>"; };
-		C7C2E2572730299400C1CFFD /* MeshulamPopup.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MeshulamPopup.storyboard; sourceTree = "<group>"; };
-		C7C2E2592730299400C1CFFD /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
-		C7C2E25A2730299400C1CFFD /* MeshulamMain.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MeshulamMain.storyboard; sourceTree = "<group>"; };
-		C7C2E25B2730299400C1CFFD /* Heebo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Light.ttf"; sourceTree = "<group>"; };
 		C7C2E29427302B3D00C1CFFD /* BdikaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BdikaViewController.swift; sourceTree = "<group>"; };
+		C7C2E29A273114F700C1CFFD /* MeshulamNetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamNetworkManager.swift; sourceTree = "<group>"; };
+		C7C2E29B273114F700C1CFFD /* MeshulamPaymentManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPaymentManager.swift; sourceTree = "<group>"; };
+		C7C2E29C273114F700C1CFFD /* MeshulamStartupManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamStartupManager.swift; sourceTree = "<group>"; };
+		C7C2E29D273114F700C1CFFD /* MeshulamPopupManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPopupManager.swift; sourceTree = "<group>"; };
+		C7C2E29E273114F700C1CFFD /* MeshulamSessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamSessionManager.swift; sourceTree = "<group>"; };
+		C7C2E2A0273114F700C1CFFD /* PopupViewControllerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupViewControllerDelegate.swift; sourceTree = "<group>"; };
+		C7C2E2A1273114F700C1CFFD /* MeshulamDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamDelegate.swift; sourceTree = "<group>"; };
+		C7C2E2A2273114F700C1CFFD /* MeshulamRequestFinishedProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamRequestFinishedProtocol.swift; sourceTree = "<group>"; };
+		C7C2E2A4273114F700C1CFFD /* BitStatusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BitStatusViewController.swift; sourceTree = "<group>"; };
+		C7C2E2A5273114F700C1CFFD /* MeshulamPopupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPopupViewController.swift; sourceTree = "<group>"; };
+		C7C2E2A7273114F800C1CFFD /* PopupInfoObj.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupInfoObj.swift; sourceTree = "<group>"; };
+		C7C2E2A9273114F800C1CFFD /* Heebo-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Thin.ttf"; sourceTree = "<group>"; };
+		C7C2E2AA273114F800C1CFFD /* Heebo-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Medium.ttf"; sourceTree = "<group>"; };
+		C7C2E2AB273114F800C1CFFD /* Heebo-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Black.ttf"; sourceTree = "<group>"; };
+		C7C2E2AC273114F800C1CFFD /* Heebo-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Bold.ttf"; sourceTree = "<group>"; };
+		C7C2E2AD273114F800C1CFFD /* Gallery.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Gallery.xcassets; sourceTree = "<group>"; };
+		C7C2E2AE273114F800C1CFFD /* Heebo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Regular.ttf"; sourceTree = "<group>"; };
+		C7C2E2AF273114F800C1CFFD /* Heebo-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-ExtraBold.ttf"; sourceTree = "<group>"; };
+		C7C2E2B0273114F800C1CFFD /* loader.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loader.json; sourceTree = "<group>"; };
+		C7C2E2B1273114F800C1CFFD /* MeshulamPopup.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MeshulamPopup.storyboard; sourceTree = "<group>"; };
+		C7C2E2B3273114F800C1CFFD /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		C7C2E2B4273114F800C1CFFD /* MeshulamMain.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MeshulamMain.storyboard; sourceTree = "<group>"; };
+		C7C2E2B5273114F800C1CFFD /* Heebo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Light.ttf"; sourceTree = "<group>"; };
+		C7C2E2B7273114F800C1CFFD /* MeshulamParseValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamParseValidator.swift; sourceTree = "<group>"; };
+		C7C2E2B9273114F800C1CFFD /* UIBottonExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIBottonExtenstion.swift; sourceTree = "<group>"; };
+		C7C2E2BA273114F800C1CFFD /* UIViewExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtenstion.swift; sourceTree = "<group>"; };
+		C7C2E2BB273114F800C1CFFD /* NSObjectExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSObjectExtenstion.swift; sourceTree = "<group>"; };
+		C7C2E2BC273114F800C1CFFD /* UIApplicationExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplicationExtenstion.swift; sourceTree = "<group>"; };
+		C7C2E2BD273114F800C1CFFD /* FontExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontExtenstion.swift; sourceTree = "<group>"; };
+		C7C2E2BE273114F800C1CFFD /* StringExtenstion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtenstion.swift; sourceTree = "<group>"; };
+		C7C2E2BF273114F800C1CFFD /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		C7C2E2C2273114F800C1CFFD /* SettleSuspendedTransactionRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettleSuspendedTransactionRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C3273114F800C1CFFD /* GetBitPaymentStatusRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetBitPaymentStatusRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C4273114F800C1CFFD /* InitSDKRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitSDKRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C5273114F800C1CFFD /* DoPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoPaymentRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C6273114F800C1CFFD /* MeshulamBaseRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamBaseRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C7273114F800C1CFFD /* GetPaymentProcessInfoRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetPaymentProcessInfoRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C8273114F800C1CFFD /* CancelBitTransactionRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitTransactionRequest.swift; sourceTree = "<group>"; };
+		C7C2E2C9273114F800C1CFFD /* SetBitPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetBitPaymentRequest.swift; sourceTree = "<group>"; };
+		C7C2E2CA273114F800C1CFFD /* CreatePaymentProcessRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePaymentProcessRequest.swift; sourceTree = "<group>"; };
+		C7C2E2CB273114F800C1CFFD /* CancelBitPaymentRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitPaymentRequest.swift; sourceTree = "<group>"; };
+		C7C2E2CD273114F800C1CFFD /* SetBitPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetBitPaymentResponse.swift; sourceTree = "<group>"; };
+		C7C2E2CE273114F800C1CFFD /* GetPaymentProcessInfoResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetPaymentProcessInfoResponse.swift; sourceTree = "<group>"; };
+		C7C2E2CF273114F800C1CFFD /* DoPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoPaymentResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D0273114F800C1CFFD /* GetBitPaymentStatusResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetBitPaymentStatusResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D1273114F800C1CFFD /* CancelBitPaymentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitPaymentResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D2273114F800C1CFFD /* CancelBitTransactionResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelBitTransactionResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D3273114F800C1CFFD /* MeshulamBaseServerResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamBaseServerResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D4273114F800C1CFFD /* InitSDKResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitSDKResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D5273114F800C1CFFD /* SettleSuspendedTransactionResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettleSuspendedTransactionResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D6273114F800C1CFFD /* ErrorResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D7273114F800C1CFFD /* BaseInnerResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseInnerResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D8273114F800C1CFFD /* CreatePaymentProcessResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePaymentProcessResponse.swift; sourceTree = "<group>"; };
+		C7C2E2D9273114F800C1CFFD /* MainS.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainS.storyboard; sourceTree = "<group>"; };
+		C7C2E2DA273114F800C1CFFD /* Meshulam.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meshulam.swift; sourceTree = "<group>"; };
+		C7C2E2DB273114F800C1CFFD /* Gallery.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Gallery.xcassets; sourceTree = "<group>"; };
 		C7E4984C268B1A2800B6CA8B /* OmerM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OmerM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7E4984F268B1A2800B6CA8B /* OmerM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OmerM.h; sourceTree = "<group>"; };
 		C7E49850268B1A2800B6CA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -178,138 +178,138 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		C7C2E2192730299300C1CFFD /* Objects */ = {
+		C7C2E299273114F700C1CFFD /* Managers */ = {
 			isa = PBXGroup;
 			children = (
-				C7C2E21A2730299300C1CFFD /* PopupInfoObj.swift */,
-			);
-			path = Objects;
-			sourceTree = "<group>";
-		};
-		C7C2E21B2730299300C1CFFD /* Validators */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E21C2730299300C1CFFD /* MeshulamParseValidator.swift */,
-			);
-			path = Validators;
-			sourceTree = "<group>";
-		};
-		C7C2E21D2730299300C1CFFD /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E21E2730299300C1CFFD /* PopupViewControllerDelegate.swift */,
-				C7C2E21F2730299300C1CFFD /* MeshulamDelegate.swift */,
-				C7C2E2202730299300C1CFFD /* MeshulamRequestFinishedProtocol.swift */,
-			);
-			path = Protocols;
-			sourceTree = "<group>";
-		};
-		C7C2E2222730299300C1CFFD /* Extenstions */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E2232730299300C1CFFD /* UIBottonExtenstion.swift */,
-				C7C2E2242730299300C1CFFD /* UIViewExtenstion.swift */,
-				C7C2E2252730299300C1CFFD /* NSObjectExtenstion.swift */,
-				C7C2E2262730299300C1CFFD /* UIApplicationExtenstion.swift */,
-				C7C2E2272730299300C1CFFD /* FontExtenstion.swift */,
-				C7C2E2282730299300C1CFFD /* StringExtenstion.swift */,
-			);
-			path = Extenstions;
-			sourceTree = "<group>";
-		};
-		C7C2E2292730299300C1CFFD /* GUI */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E22A2730299300C1CFFD /* BitStatusViewController.swift */,
-				C7C2E22B2730299400C1CFFD /* MeshulamPopupViewController.swift */,
-			);
-			path = GUI;
-			sourceTree = "<group>";
-		};
-		C7C2E22D2730299400C1CFFD /* Api */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E22E2730299400C1CFFD /* Requestes */,
-				C7C2E2392730299400C1CFFD /* Responses */,
-				C7C2E2462730299400C1CFFD /* MainS.storyboard */,
-				C7C2E2472730299400C1CFFD /* Meshulam.swift */,
-			);
-			path = Api;
-			sourceTree = "<group>";
-		};
-		C7C2E22E2730299400C1CFFD /* Requestes */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E22F2730299400C1CFFD /* SettleSuspendedTransactionRequest.swift */,
-				C7C2E2302730299400C1CFFD /* GetBitPaymentStatusRequest.swift */,
-				C7C2E2312730299400C1CFFD /* InitSDKRequest.swift */,
-				C7C2E2322730299400C1CFFD /* DoPaymentRequest.swift */,
-				C7C2E2332730299400C1CFFD /* MeshulamBaseRequest.swift */,
-				C7C2E2342730299400C1CFFD /* GetPaymentProcessInfoRequest.swift */,
-				C7C2E2352730299400C1CFFD /* CancelBitTransactionRequest.swift */,
-				C7C2E2362730299400C1CFFD /* SetBitPaymentRequest.swift */,
-				C7C2E2372730299400C1CFFD /* CreatePaymentProcessRequest.swift */,
-				C7C2E2382730299400C1CFFD /* CancelBitPaymentRequest.swift */,
-			);
-			path = Requestes;
-			sourceTree = "<group>";
-		};
-		C7C2E2392730299400C1CFFD /* Responses */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E23A2730299400C1CFFD /* SetBitPaymentResponse.swift */,
-				C7C2E23B2730299400C1CFFD /* GetPaymentProcessInfoResponse.swift */,
-				C7C2E23C2730299400C1CFFD /* DoPaymentResponse.swift */,
-				C7C2E23D2730299400C1CFFD /* GetBitPaymentStatusResponse.swift */,
-				C7C2E23E2730299400C1CFFD /* CancelBitPaymentResponse.swift */,
-				C7C2E23F2730299400C1CFFD /* CancelBitTransactionResponse.swift */,
-				C7C2E2402730299400C1CFFD /* MeshulamBaseServerResponse.swift */,
-				C7C2E2412730299400C1CFFD /* InitSDKResponse.swift */,
-				C7C2E2422730299400C1CFFD /* SettleSuspendedTransactionResponse.swift */,
-				C7C2E2432730299400C1CFFD /* ErrorResponse.swift */,
-				C7C2E2442730299400C1CFFD /* BaseInnerResponse.swift */,
-				C7C2E2452730299400C1CFFD /* CreatePaymentProcessResponse.swift */,
-			);
-			path = Responses;
-			sourceTree = "<group>";
-		};
-		C7C2E2482730299400C1CFFD /* Managers */ = {
-			isa = PBXGroup;
-			children = (
-				C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */,
-				C7C2E24A2730299400C1CFFD /* MeshulamPaymentManager.swift */,
-				C7C2E24B2730299400C1CFFD /* MeshulamStartupManager.swift */,
-				C7C2E24C2730299400C1CFFD /* MeshulamPopupManager.swift */,
-				C7C2E24D2730299400C1CFFD /* MeshulamSessionManager.swift */,
+				C7C2E29A273114F700C1CFFD /* MeshulamNetworkManager.swift */,
+				C7C2E29B273114F700C1CFFD /* MeshulamPaymentManager.swift */,
+				C7C2E29C273114F700C1CFFD /* MeshulamStartupManager.swift */,
+				C7C2E29D273114F700C1CFFD /* MeshulamPopupManager.swift */,
+				C7C2E29E273114F700C1CFFD /* MeshulamSessionManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
 		};
-		C7C2E24E2730299400C1CFFD /* Resources */ = {
+		C7C2E29F273114F700C1CFFD /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				C7C2E24F2730299400C1CFFD /* Heebo-Thin.ttf */,
-				C7C2E2502730299400C1CFFD /* Heebo-Medium.ttf */,
-				C7C2E2512730299400C1CFFD /* Heebo-Black.ttf */,
-				C7C2E2522730299400C1CFFD /* Heebo-Bold.ttf */,
-				C7C2E2532730299400C1CFFD /* Gallery.xcassets */,
-				C7C2E2542730299400C1CFFD /* Heebo-Regular.ttf */,
-				C7C2E2552730299400C1CFFD /* Heebo-ExtraBold.ttf */,
-				C7C2E2562730299400C1CFFD /* loader.json */,
-				C7C2E2572730299400C1CFFD /* MeshulamPopup.storyboard */,
-				C7C2E2582730299400C1CFFD /* Fonts */,
-				C7C2E25A2730299400C1CFFD /* MeshulamMain.storyboard */,
-				C7C2E25B2730299400C1CFFD /* Heebo-Light.ttf */,
+				C7C2E2A0273114F700C1CFFD /* PopupViewControllerDelegate.swift */,
+				C7C2E2A1273114F700C1CFFD /* MeshulamDelegate.swift */,
+				C7C2E2A2273114F700C1CFFD /* MeshulamRequestFinishedProtocol.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		C7C2E2A3273114F700C1CFFD /* GUI */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2A4273114F700C1CFFD /* BitStatusViewController.swift */,
+				C7C2E2A5273114F700C1CFFD /* MeshulamPopupViewController.swift */,
+			);
+			path = GUI;
+			sourceTree = "<group>";
+		};
+		C7C2E2A6273114F800C1CFFD /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2A7273114F800C1CFFD /* PopupInfoObj.swift */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		C7C2E2A8273114F800C1CFFD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2A9273114F800C1CFFD /* Heebo-Thin.ttf */,
+				C7C2E2AA273114F800C1CFFD /* Heebo-Medium.ttf */,
+				C7C2E2AB273114F800C1CFFD /* Heebo-Black.ttf */,
+				C7C2E2AC273114F800C1CFFD /* Heebo-Bold.ttf */,
+				C7C2E2AD273114F800C1CFFD /* Gallery.xcassets */,
+				C7C2E2AE273114F800C1CFFD /* Heebo-Regular.ttf */,
+				C7C2E2AF273114F800C1CFFD /* Heebo-ExtraBold.ttf */,
+				C7C2E2B0273114F800C1CFFD /* loader.json */,
+				C7C2E2B1273114F800C1CFFD /* MeshulamPopup.storyboard */,
+				C7C2E2B2273114F800C1CFFD /* Fonts */,
+				C7C2E2B4273114F800C1CFFD /* MeshulamMain.storyboard */,
+				C7C2E2B5273114F800C1CFFD /* Heebo-Light.ttf */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		C7C2E2582730299400C1CFFD /* Fonts */ = {
+		C7C2E2B2273114F800C1CFFD /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				C7C2E2592730299400C1CFFD /* OFL.txt */,
+				C7C2E2B3273114F800C1CFFD /* OFL.txt */,
 			);
 			path = Fonts;
+			sourceTree = "<group>";
+		};
+		C7C2E2B6273114F800C1CFFD /* Validators */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2B7273114F800C1CFFD /* MeshulamParseValidator.swift */,
+			);
+			path = Validators;
+			sourceTree = "<group>";
+		};
+		C7C2E2B8273114F800C1CFFD /* Extenstions */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2B9273114F800C1CFFD /* UIBottonExtenstion.swift */,
+				C7C2E2BA273114F800C1CFFD /* UIViewExtenstion.swift */,
+				C7C2E2BB273114F800C1CFFD /* NSObjectExtenstion.swift */,
+				C7C2E2BC273114F800C1CFFD /* UIApplicationExtenstion.swift */,
+				C7C2E2BD273114F800C1CFFD /* FontExtenstion.swift */,
+				C7C2E2BE273114F800C1CFFD /* StringExtenstion.swift */,
+			);
+			path = Extenstions;
+			sourceTree = "<group>";
+		};
+		C7C2E2C0273114F800C1CFFD /* Api */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2C1273114F800C1CFFD /* Requestes */,
+				C7C2E2CC273114F800C1CFFD /* Responses */,
+				C7C2E2D9273114F800C1CFFD /* MainS.storyboard */,
+				C7C2E2DA273114F800C1CFFD /* Meshulam.swift */,
+			);
+			path = Api;
+			sourceTree = "<group>";
+		};
+		C7C2E2C1273114F800C1CFFD /* Requestes */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2C2273114F800C1CFFD /* SettleSuspendedTransactionRequest.swift */,
+				C7C2E2C3273114F800C1CFFD /* GetBitPaymentStatusRequest.swift */,
+				C7C2E2C4273114F800C1CFFD /* InitSDKRequest.swift */,
+				C7C2E2C5273114F800C1CFFD /* DoPaymentRequest.swift */,
+				C7C2E2C6273114F800C1CFFD /* MeshulamBaseRequest.swift */,
+				C7C2E2C7273114F800C1CFFD /* GetPaymentProcessInfoRequest.swift */,
+				C7C2E2C8273114F800C1CFFD /* CancelBitTransactionRequest.swift */,
+				C7C2E2C9273114F800C1CFFD /* SetBitPaymentRequest.swift */,
+				C7C2E2CA273114F800C1CFFD /* CreatePaymentProcessRequest.swift */,
+				C7C2E2CB273114F800C1CFFD /* CancelBitPaymentRequest.swift */,
+			);
+			path = Requestes;
+			sourceTree = "<group>";
+		};
+		C7C2E2CC273114F800C1CFFD /* Responses */ = {
+			isa = PBXGroup;
+			children = (
+				C7C2E2CD273114F800C1CFFD /* SetBitPaymentResponse.swift */,
+				C7C2E2CE273114F800C1CFFD /* GetPaymentProcessInfoResponse.swift */,
+				C7C2E2CF273114F800C1CFFD /* DoPaymentResponse.swift */,
+				C7C2E2D0273114F800C1CFFD /* GetBitPaymentStatusResponse.swift */,
+				C7C2E2D1273114F800C1CFFD /* CancelBitPaymentResponse.swift */,
+				C7C2E2D2273114F800C1CFFD /* CancelBitTransactionResponse.swift */,
+				C7C2E2D3273114F800C1CFFD /* MeshulamBaseServerResponse.swift */,
+				C7C2E2D4273114F800C1CFFD /* InitSDKResponse.swift */,
+				C7C2E2D5273114F800C1CFFD /* SettleSuspendedTransactionResponse.swift */,
+				C7C2E2D6273114F800C1CFFD /* ErrorResponse.swift */,
+				C7C2E2D7273114F800C1CFFD /* BaseInnerResponse.swift */,
+				C7C2E2D8273114F800C1CFFD /* CreatePaymentProcessResponse.swift */,
+			);
+			path = Responses;
 			sourceTree = "<group>";
 		};
 		C7E49842268B1A2800B6CA8B = {
@@ -336,16 +336,16 @@
 			children = (
 				C7E4984F268B1A2800B6CA8B /* OmerM.h */,
 				C7E49850268B1A2800B6CA8B /* Info.plist */,
-				C7C2E22D2730299400C1CFFD /* Api */,
-				C7C2E2212730299300C1CFFD /* Constants.swift */,
-				C7C2E2222730299300C1CFFD /* Extenstions */,
-				C7C2E22C2730299400C1CFFD /* Gallery.xcassets */,
-				C7C2E2292730299300C1CFFD /* GUI */,
-				C7C2E2482730299400C1CFFD /* Managers */,
-				C7C2E2192730299300C1CFFD /* Objects */,
-				C7C2E21D2730299300C1CFFD /* Protocols */,
-				C7C2E24E2730299400C1CFFD /* Resources */,
-				C7C2E21B2730299300C1CFFD /* Validators */,
+				C7C2E2C0273114F800C1CFFD /* Api */,
+				C7C2E2BF273114F800C1CFFD /* Constants.swift */,
+				C7C2E2B8273114F800C1CFFD /* Extenstions */,
+				C7C2E2DB273114F800C1CFFD /* Gallery.xcassets */,
+				C7C2E2A3273114F700C1CFFD /* GUI */,
+				C7C2E299273114F700C1CFFD /* Managers */,
+				C7C2E2A6273114F800C1CFFD /* Objects */,
+				C7C2E29F273114F700C1CFFD /* Protocols */,
+				C7C2E2A8273114F800C1CFFD /* Resources */,
+				C7C2E2B6273114F800C1CFFD /* Validators */,
 			);
 			path = OmerM;
 			sourceTree = "<group>";
@@ -422,20 +422,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7C2E26A2730299400C1CFFD /* Gallery.xcassets in Resources */,
-				C7C2E2922730299400C1CFFD /* MeshulamMain.storyboard in Resources */,
-				C7C2E28A2730299400C1CFFD /* Heebo-Black.ttf in Resources */,
-				C7C2E2902730299400C1CFFD /* MeshulamPopup.storyboard in Resources */,
-				C7C2E2892730299400C1CFFD /* Heebo-Medium.ttf in Resources */,
-				C7C2E28B2730299400C1CFFD /* Heebo-Bold.ttf in Resources */,
-				C7C2E28F2730299400C1CFFD /* loader.json in Resources */,
-				C7C2E2912730299400C1CFFD /* OFL.txt in Resources */,
-				C7C2E28C2730299400C1CFFD /* Gallery.xcassets in Resources */,
-				C7C2E2812730299400C1CFFD /* MainS.storyboard in Resources */,
-				C7C2E2882730299400C1CFFD /* Heebo-Thin.ttf in Resources */,
-				C7C2E2932730299400C1CFFD /* Heebo-Light.ttf in Resources */,
-				C7C2E28E2730299400C1CFFD /* Heebo-ExtraBold.ttf in Resources */,
-				C7C2E28D2730299400C1CFFD /* Heebo-Regular.ttf in Resources */,
+				C7C2E2F0273114F900C1CFFD /* OFL.txt in Resources */,
+				C7C2E2E9273114F900C1CFFD /* Heebo-Black.ttf in Resources */,
+				C7C2E2EC273114F900C1CFFD /* Heebo-Regular.ttf in Resources */,
+				C7C2E2EF273114F900C1CFFD /* MeshulamPopup.storyboard in Resources */,
+				C7C2E313273114F900C1CFFD /* Gallery.xcassets in Resources */,
+				C7C2E2EE273114F900C1CFFD /* loader.json in Resources */,
+				C7C2E2ED273114F900C1CFFD /* Heebo-ExtraBold.ttf in Resources */,
+				C7C2E2E7273114F900C1CFFD /* Heebo-Thin.ttf in Resources */,
+				C7C2E2F2273114F900C1CFFD /* Heebo-Light.ttf in Resources */,
+				C7C2E2E8273114F900C1CFFD /* Heebo-Medium.ttf in Resources */,
+				C7C2E2EB273114F900C1CFFD /* Gallery.xcassets in Resources */,
+				C7C2E2EA273114F900C1CFFD /* Heebo-Bold.ttf in Resources */,
+				C7C2E311273114F900C1CFFD /* MainS.storyboard in Resources */,
+				C7C2E2F1273114F900C1CFFD /* MeshulamMain.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -471,49 +471,49 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7C2E2712730299400C1CFFD /* CancelBitTransactionRequest.swift in Sources */,
-				C7C2E2832730299400C1CFFD /* MeshulamNetworkManager.swift in Sources */,
-				C7C2E26F2730299400C1CFFD /* MeshulamBaseRequest.swift in Sources */,
-				C7C2E2732730299400C1CFFD /* CreatePaymentProcessRequest.swift in Sources */,
-				C7C2E2872730299400C1CFFD /* MeshulamSessionManager.swift in Sources */,
-				C7C2E2742730299400C1CFFD /* CancelBitPaymentRequest.swift in Sources */,
-				C7C2E2682730299400C1CFFD /* BitStatusViewController.swift in Sources */,
-				C7C2E27C2730299400C1CFFD /* InitSDKResponse.swift in Sources */,
-				C7C2E2622730299400C1CFFD /* UIBottonExtenstion.swift in Sources */,
-				C7C2E2672730299400C1CFFD /* StringExtenstion.swift in Sources */,
-				C7C2E2702730299400C1CFFD /* GetPaymentProcessInfoRequest.swift in Sources */,
-				C7C2E27A2730299400C1CFFD /* CancelBitTransactionResponse.swift in Sources */,
-				C7C2E25D2730299400C1CFFD /* MeshulamParseValidator.swift in Sources */,
-				C7C2E2862730299400C1CFFD /* MeshulamPopupManager.swift in Sources */,
-				C7C2E26C2730299400C1CFFD /* GetBitPaymentStatusRequest.swift in Sources */,
-				C7C2E2642730299400C1CFFD /* NSObjectExtenstion.swift in Sources */,
-				C7C2E2662730299400C1CFFD /* FontExtenstion.swift in Sources */,
-				C7C2E2692730299400C1CFFD /* MeshulamPopupViewController.swift in Sources */,
-				C7C2E2652730299400C1CFFD /* UIApplicationExtenstion.swift in Sources */,
-				C7C2E27D2730299400C1CFFD /* SettleSuspendedTransactionResponse.swift in Sources */,
-				C7C2E2822730299400C1CFFD /* Meshulam.swift in Sources */,
-				C7C2E2632730299400C1CFFD /* UIViewExtenstion.swift in Sources */,
-				C7C2E27B2730299400C1CFFD /* MeshulamBaseServerResponse.swift in Sources */,
-				C7C2E2602730299400C1CFFD /* MeshulamRequestFinishedProtocol.swift in Sources */,
-				C7C2E27E2730299400C1CFFD /* ErrorResponse.swift in Sources */,
-				C7C2E25C2730299400C1CFFD /* PopupInfoObj.swift in Sources */,
-				C7C2E25E2730299400C1CFFD /* PopupViewControllerDelegate.swift in Sources */,
-				C7C2E2852730299400C1CFFD /* MeshulamStartupManager.swift in Sources */,
-				C7C2E2752730299400C1CFFD /* SetBitPaymentResponse.swift in Sources */,
-				C7C2E2612730299400C1CFFD /* Constants.swift in Sources */,
-				C7C2E26B2730299400C1CFFD /* SettleSuspendedTransactionRequest.swift in Sources */,
-				C7C2E2842730299400C1CFFD /* MeshulamPaymentManager.swift in Sources */,
-				C7C2E2782730299400C1CFFD /* GetBitPaymentStatusResponse.swift in Sources */,
-				C7C2E26E2730299400C1CFFD /* DoPaymentRequest.swift in Sources */,
-				C7C2E2792730299400C1CFFD /* CancelBitPaymentResponse.swift in Sources */,
-				C7C2E2772730299400C1CFFD /* DoPaymentResponse.swift in Sources */,
-				C7C2E2722730299400C1CFFD /* SetBitPaymentRequest.swift in Sources */,
-				C7C2E2762730299400C1CFFD /* GetPaymentProcessInfoResponse.swift in Sources */,
-				C7C2E27F2730299400C1CFFD /* BaseInnerResponse.swift in Sources */,
+				C7C2E2F4273114F900C1CFFD /* UIBottonExtenstion.swift in Sources */,
+				C7C2E2E2273114F900C1CFFD /* MeshulamDelegate.swift in Sources */,
+				C7C2E305273114F900C1CFFD /* SetBitPaymentResponse.swift in Sources */,
+				C7C2E301273114F900C1CFFD /* CancelBitTransactionRequest.swift in Sources */,
+				C7C2E2E3273114F900C1CFFD /* MeshulamRequestFinishedProtocol.swift in Sources */,
+				C7C2E310273114F900C1CFFD /* CreatePaymentProcessResponse.swift in Sources */,
+				C7C2E2F8273114F900C1CFFD /* FontExtenstion.swift in Sources */,
+				C7C2E306273114F900C1CFFD /* GetPaymentProcessInfoResponse.swift in Sources */,
+				C7C2E2FD273114F900C1CFFD /* InitSDKRequest.swift in Sources */,
+				C7C2E2E4273114F900C1CFFD /* BitStatusViewController.swift in Sources */,
+				C7C2E303273114F900C1CFFD /* CreatePaymentProcessRequest.swift in Sources */,
+				C7C2E2DC273114F900C1CFFD /* MeshulamNetworkManager.swift in Sources */,
+				C7C2E2F7273114F900C1CFFD /* UIApplicationExtenstion.swift in Sources */,
+				C7C2E308273114F900C1CFFD /* GetBitPaymentStatusResponse.swift in Sources */,
+				C7C2E2E6273114F900C1CFFD /* PopupInfoObj.swift in Sources */,
+				C7C2E2DE273114F900C1CFFD /* MeshulamStartupManager.swift in Sources */,
+				C7C2E30E273114F900C1CFFD /* ErrorResponse.swift in Sources */,
+				C7C2E30B273114F900C1CFFD /* MeshulamBaseServerResponse.swift in Sources */,
+				C7C2E2DD273114F900C1CFFD /* MeshulamPaymentManager.swift in Sources */,
+				C7C2E2FE273114F900C1CFFD /* DoPaymentRequest.swift in Sources */,
+				C7C2E2F5273114F900C1CFFD /* UIViewExtenstion.swift in Sources */,
+				C7C2E300273114F900C1CFFD /* GetPaymentProcessInfoRequest.swift in Sources */,
+				C7C2E2F9273114F900C1CFFD /* StringExtenstion.swift in Sources */,
+				C7C2E2E5273114F900C1CFFD /* MeshulamPopupViewController.swift in Sources */,
 				C7C2E29527302B3D00C1CFFD /* BdikaViewController.swift in Sources */,
-				C7C2E25F2730299400C1CFFD /* MeshulamDelegate.swift in Sources */,
-				C7C2E26D2730299400C1CFFD /* InitSDKRequest.swift in Sources */,
-				C7C2E2802730299400C1CFFD /* CreatePaymentProcessResponse.swift in Sources */,
+				C7C2E307273114F900C1CFFD /* DoPaymentResponse.swift in Sources */,
+				C7C2E2FC273114F900C1CFFD /* GetBitPaymentStatusRequest.swift in Sources */,
+				C7C2E2E0273114F900C1CFFD /* MeshulamSessionManager.swift in Sources */,
+				C7C2E30D273114F900C1CFFD /* SettleSuspendedTransactionResponse.swift in Sources */,
+				C7C2E2FA273114F900C1CFFD /* Constants.swift in Sources */,
+				C7C2E30C273114F900C1CFFD /* InitSDKResponse.swift in Sources */,
+				C7C2E2F6273114F900C1CFFD /* NSObjectExtenstion.swift in Sources */,
+				C7C2E2FF273114F900C1CFFD /* MeshulamBaseRequest.swift in Sources */,
+				C7C2E309273114F900C1CFFD /* CancelBitPaymentResponse.swift in Sources */,
+				C7C2E30F273114F900C1CFFD /* BaseInnerResponse.swift in Sources */,
+				C7C2E2E1273114F900C1CFFD /* PopupViewControllerDelegate.swift in Sources */,
+				C7C2E2DF273114F900C1CFFD /* MeshulamPopupManager.swift in Sources */,
+				C7C2E2F3273114F900C1CFFD /* MeshulamParseValidator.swift in Sources */,
+				C7C2E2FB273114F900C1CFFD /* SettleSuspendedTransactionRequest.swift in Sources */,
+				C7C2E312273114F900C1CFFD /* Meshulam.swift in Sources */,
+				C7C2E304273114F900C1CFFD /* CancelBitPaymentRequest.swift in Sources */,
+				C7C2E302273114F900C1CFFD /* SetBitPaymentRequest.swift in Sources */,
+				C7C2E30A273114F900C1CFFD /* CancelBitTransactionResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
