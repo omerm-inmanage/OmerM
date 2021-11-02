@@ -276,6 +276,7 @@
 		C7C2E2482730299400C1CFFD /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */,
 				C7C2E24A2730299400C1CFFD /* MeshulamPaymentManager.swift */,
 				C7C2E24B2730299400C1CFFD /* MeshulamStartupManager.swift */,
 				C7C2E24C2730299400C1CFFD /* MeshulamPopupManager.swift */,
@@ -340,7 +341,6 @@
 				C7C2E2222730299300C1CFFD /* Extenstions */,
 				C7C2E22C2730299400C1CFFD /* Gallery.xcassets */,
 				C7C2E2292730299300C1CFFD /* GUI */,
-				C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */,
 				C7C2E2482730299400C1CFFD /* Managers */,
 				C7C2E2192730299300C1CFFD /* Objects */,
 				C7C2E21D2730299300C1CFFD /* Protocols */,
