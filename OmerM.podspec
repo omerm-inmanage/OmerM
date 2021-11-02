@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'OmerM.framework'
   s.static_framework = true
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
+  s.source_files = "OmerM/*.{h,m,swift}"
 
     # s.frameworks = 'OmerM'
   # s.ios.vendored_frameworks = 'OmerM.framework'
@@ -22,7 +23,7 @@ Pod::Spec.new do |s|
 
   # s.exclude_files = "Classes/Exclude"
   s.swift_version = '4.2'
-  s.exclude_files = "Constrictor/Constrictor/*.plist"
+  # s.exclude_files = "Constrictor/Constrictor/*.plist"
 
 
   #pods
