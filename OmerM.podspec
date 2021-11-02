@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "OmerM"
-  s.version      = "0.0.9"
+  s.version      = "0.1.0"
   s.summary      = "A nice logger tool in Swift."
   s.description  = <<-DESC
   A nice logger tool in Swift. Cheers
@@ -20,18 +20,17 @@ Pod::Spec.new do |s|
   # s.requires_arc = true
 
   s.xcconfig = { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
-  'ENABLE_BITCODE' => 'YES'
+  'ENABLE_BITCODE' => 'NO'
   }
-  # s.source_files = 'OmerM' ֿ
-  s.source_files = 'OmerM/Main/**/*'
-  # s.source_files = 'OmerM/APi/**/*'
-  # s.source_files = 'OmerM/Extenstions/**/*'
-  # s.source_files = 'OmerM/GUI/**/*'
-  # s.source_files = 'OmerM/Objects/**/*'
-  # s.source_files = 'OmerM/Protocols/**/*'
-  # s.source_files = 'OmerM/Protocols/**/*'
-  # s.source_files = 'OmerM/Resources/**/*'
-  # s.source_files = 'OmerM/Validators/**/*'
+
+  s.resources = [
+            'OmerM/Resources/**/*.xcassets',
+            'OmerM/Resources/**/*.storyboard',
+            'OmerM/Resources/**/*.png',
+            'OmerM/Resources/**/*.jpg',
+            'OmerM/Resources/**/*.ttf']
+
+  s.source_files = 'OmerM/**/*.{h,m,swift}'
 
   #pods
   s.dependency 'Alamofire'

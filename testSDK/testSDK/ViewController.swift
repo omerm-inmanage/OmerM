@@ -42,7 +42,16 @@ class ViewController: UIViewController, MeshulamDelegate {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func didTap(_ sender: Any) {
+        Meshulam.shared().createPaymentProcess(pageCode: "e439ab93f4b2",
+                                    apiKey: "lrgkjslkjfsd",
+                                    userId: "24002fc104f101c0fef",
+                                    fullName: "Amit Azulay",
+                                    phoneNumber: "0542533691",
+                                    sum: "1",
+                                    delegate: self)
+    }
+    
 }
 //
 //

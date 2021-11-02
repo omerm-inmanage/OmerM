@@ -22,9 +22,16 @@
   "exclude_files": "Constrictor/Constrictor/*.plist",
   "xcconfig": {
     "CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES": "YES",
-    "ENABLE_BITCODE": "YES"
+    "ENABLE_BITCODE": "NO"
   },
-  "source_files": "OmerM/Main/**/*",
+  "resources": [
+    "OmerM/Resources/**/*.xcassets",
+    "OmerM/Resources/**/*.storyboard",
+    "OmerM/Resources/**/*.png",
+    "OmerM/Resources/**/*.jpg",
+    "OmerM/Resources/**/*.ttf"
+  ],
+  "source_files": "OmerM/**/*.{h,m,swift}",
   "dependencies": {
     "Alamofire": [
 
