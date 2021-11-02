@@ -32,8 +32,8 @@ Pod::Spec.new do |s|
   s.source_files  = 'OmerM/**/*.swift'
   # s.framework = "UIKit"
 
-  s.private_header_files = 'OmerM/**/*.Private.swift'
-  s.exclude_files = "Classes/Exclude"
+  # s.private_header_files = 'OmerM/**/*.Private.swift'
+  # s.exclude_files = "Classes/Exclude"
 
 
   #pods
