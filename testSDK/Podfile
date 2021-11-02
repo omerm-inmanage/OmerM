@@ -6,8 +6,8 @@ target 'testSDK' do
   use_frameworks!
 
 
-  pod 'OmerM'
-#  pod 'OmerM', :path => '../OmerM.podspec'
+#  pod 'OmerM'
+ pod 'OmerM', :path => '../OmerM.podspec'
 
 
 

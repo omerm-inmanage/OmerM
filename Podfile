@@ -4,13 +4,8 @@
 target 'OmerM' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-
-  # Pods for OmerM
-  
-  source 'https://github.com/CocoaPods/Specs.git'
-  
-  pod 'Alamofire' , :modular_headers => true
-
+    
+  pod 'Alamofire'
   pod 'lottie-ios'
 
 
