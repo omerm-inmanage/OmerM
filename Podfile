@@ -7,7 +7,10 @@ target 'OmerM' do
 
   # Pods for OmerM
   
-  pod 'Alamofire'
+  source 'https://github.com/CocoaPods/Specs.git'
+  
+  pod 'Alamofire' , :modular_headers => true
+
   pod 'lottie-ios'
 
 

@@ -65,7 +65,9 @@
 		C7C2E3F62731347000C1CFFD /* PopupViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E3CB2731347000C1CFFD /* PopupViewControllerDelegate.swift */; };
 		C7C2E3F72731347000C1CFFD /* MeshulamDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E3CC2731347000C1CFFD /* MeshulamDelegate.swift */; };
 		C7C2E3F82731347000C1CFFD /* MeshulamRequestFinishedProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C2E3CD2731347000C1CFFD /* MeshulamRequestFinishedProtocol.swift */; };
-		C7E4985D268B1A2900B6CA8B /* OmerM.h in Headers */ = {isa = PBXBuildFile; fileRef = C7E4984F268B1A2800B6CA8B /* OmerM.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C7C2E3FA27317B8900C1CFFD /* Constants.swift in Headers */ = {isa = PBXBuildFile; fileRef = C7C2E39A2731346F00C1CFFD /* Constants.swift */; settings = {ATTRIBUTES = (Private, ); }; };
+		C7C2E3FB27317E8B00C1CFFD /* MeshulamNetworkManager.swift in Headers */ = {isa = PBXBuildFile; fileRef = C7C2E39C2731346F00C1CFFD /* MeshulamNetworkManager.swift */; };
+		C7E4985D268B1A2900B6CA8B /* OmerM.h in Headers */ = {isa = PBXBuildFile; fileRef = C7E4984F268B1A2800B6CA8B /* OmerM.h */; settings = {ATTRIBUTES = (Private, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -100,7 +102,7 @@
 		C7C2E32A27312EB500C1CFFD /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
 		C7C2E32B27312EB500C1CFFD /* MeshulamMain.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MeshulamMain.storyboard; sourceTree = "<group>"; };
 		C7C2E32C27312EB500C1CFFD /* Heebo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Heebo-Light.ttf"; sourceTree = "<group>"; };
-		C7C2E39A2731346F00C1CFFD /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		C7C2E39A2731346F00C1CFFD /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; usesTabs = 0; };
 		C7C2E39C2731346F00C1CFFD /* MeshulamNetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamNetworkManager.swift; sourceTree = "<group>"; };
 		C7C2E39D2731346F00C1CFFD /* MeshulamPaymentManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamPaymentManager.swift; sourceTree = "<group>"; };
 		C7C2E39E2731346F00C1CFFD /* MeshulamStartupManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeshulamStartupManager.swift; sourceTree = "<group>"; };
@@ -366,6 +368,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7E4985D268B1A2900B6CA8B /* OmerM.h in Headers */,
+				C7C2E3FA27317B8900C1CFFD /* Constants.swift in Headers */,
+				C7C2E3FB27317E8B00C1CFFD /* MeshulamNetworkManager.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (5.4.4)
   - lottie-ios (3.2.3)
-  - OmerM (0.0.9):
+  - OmerM (0.1.0):
     - Alamofire
     - lottie-ios
 
@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
   lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
-  OmerM: 76df2e90bd6dd346321cc6e2cbc58fa8cd1ef730
+  OmerM: 84d48d65b0f894bcd6677ad710e9ad21b7b58b3e
 
-PODFILE CHECKSUM: ea04ceab56fd3630cca5dba43c93c3dd0eadb821
+PODFILE CHECKSUM: ebf410b7fba45f9fab34a59066f12bee354edc28
 
 COCOAPODS: 1.11.0.beta.2

@@ -1,6 +1,6 @@
 {
   "name": "OmerM",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "A nice logger tool in Swift.",
   "description": "A nice logger tool in Swift. Cheers",
   "homepage": "https://github.com/omerm-inmanage/OmerM.git",
@@ -17,21 +17,18 @@
   "swift_versions": "4.2",
   "source": {
     "git": "https://github.com/omerm-inmanage/OmerM.git",
-    "tag": "0.0.9"
+    "tag": "0.1.0"
   },
-  "exclude_files": "Constrictor/Constrictor/*.plist",
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true,
+  "static_framework": true,
   "xcconfig": {
     "CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES": "YES",
     "ENABLE_BITCODE": "NO"
   },
-  "resources": [
-    "OmerM/Resources/**/*.xcassets",
-    "OmerM/Resources/**/*.storyboard",
-    "OmerM/Resources/**/*.png",
-    "OmerM/Resources/**/*.jpg",
-    "OmerM/Resources/**/*.ttf"
-  ],
-  "source_files": "OmerM/**/*.{h,m,swift}",
+  "resources": "OmerM/Resources/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,ttf}",
+  "source_files": "OmerM/**/*.swift",
+  "private_header_files": "OmerM/**/*.Private.swift",
   "dependencies": {
     "Alamofire": [
 

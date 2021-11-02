@@ -16,21 +16,25 @@ Pod::Spec.new do |s|
   # s.ios.vendored_frameworks = 'OmerM.framework'
 
   s.exclude_files = "Constrictor/Constrictor/*.plist"
-  # s.static_framework = true
-  # s.requires_arc = true
+
+   # Need to set this if you use ARC (Automatic Reference Counting)
+   s.requires_arc = true
+   s.static_framework = true
 
   s.xcconfig = { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
   'ENABLE_BITCODE' => 'NO'
   }
 
-  s.resources = [
-            'OmerM/Resources/**/*.xcassets',
-            'OmerM/Resources/**/*.storyboard',
-            'OmerM/Resources/**/*.png',
-            'OmerM/Resources/**/*.jpg',
-            'OmerM/Resources/**/*.ttf']
+  s.resources = "OmerM/Resources/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,ttf}"
 
-  s.source_files = 'OmerM/**/*.{h,m,swift}'
+  # s.source_files = 'OmerM/**/*.{h,m,swift}'
+  # s.ios.exclude_files = 'OmerM/Pods'
+  s.source_files  = 'OmerM/**/*.swift'
+  # s.framework = "UIKit"
+
+  s.private_header_files = 'OmerM/**/*.Private.swift'
+  s.exclude_files = "Classes/Exclude"
+
 
   #pods
   s.dependency 'Alamofire'

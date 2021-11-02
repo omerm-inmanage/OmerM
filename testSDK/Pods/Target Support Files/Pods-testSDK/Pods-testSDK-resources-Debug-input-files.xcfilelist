@@ -1,7 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-testSDK/Pods-testSDK-resources.sh
-${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets
-${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamMain.storyboardc
-${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamPopup.storyboardc
 ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground.png
 ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground@2x.png
 ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground@3x.png
@@ -20,3 +17,13 @@ ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/x.imageset/x@3x.png
 ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy.png
 ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy@2x.png
 ${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy@3x.png
+${PODS_ROOT}/../../OmerM/Resources/Heebo-Black.ttf
+${PODS_ROOT}/../../OmerM/Resources/Heebo-Bold.ttf
+${PODS_ROOT}/../../OmerM/Resources/Heebo-ExtraBold.ttf
+${PODS_ROOT}/../../OmerM/Resources/Heebo-Light.ttf
+${PODS_ROOT}/../../OmerM/Resources/Heebo-Medium.ttf
+${PODS_ROOT}/../../OmerM/Resources/Heebo-Regular.ttf
+${PODS_ROOT}/../../OmerM/Resources/Heebo-Thin.ttf
+${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamMain.storyboardc
+${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamPopup.storyboardc
+${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets

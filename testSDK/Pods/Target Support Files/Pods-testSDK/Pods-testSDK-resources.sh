@@ -97,9 +97,6 @@ EOM
   esac
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets"
-  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamMain.storyboardc"
-  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamPopup.storyboardc"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground@2x.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground@3x.png"
@@ -118,11 +115,18 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy@2x.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy@3x.png"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Black.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Bold.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-ExtraBold.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Light.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Medium.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Regular.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Thin.ttf"
+  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamMain.storyboardc"
+  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamPopup.storyboardc"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets"
-  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamMain.storyboardc"
-  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamPopup.storyboardc"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground@2x.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/bitBackground.imageset/bitBackground@3x.png"
@@ -141,6 +145,16 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy@2x.png"
   install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets/xCopy.imageset/xCopy@3x.png"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Black.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Bold.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-ExtraBold.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Light.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Medium.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Regular.ttf"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Heebo-Thin.ttf"
+  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamMain.storyboardc"
+  install_resource "${BUILT_PRODUCTS_DIR}/OmerM/OmerM.framework/MeshulamPopup.storyboardc"
+  install_resource "${PODS_ROOT}/../../OmerM/Resources/Gallery.xcassets"
 fi
 
 mkdir -p "${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}"

@@ -14,11 +14,11 @@
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/Pods_OmerM</key>
 		<data>
-		MEW1XcCyS7jMJm5QCD+po9hPLUI=
+		waFhvMwT23u3NC78XE/2CW7GLX0=
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		fd3qfxQm34fhdSzIWa/I7SFTf/0=
+		FAeKVSa/GWL9NFwvfBAR7tQfLDw=
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		RUucMEuddV5s0AOejPOlWg9U5is=
+		LrlysgdEluNcr8hLI7AFVUfB3v0=
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,15 +34,11 @@
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		UUcV9nMQvT32JHuKNAcvqUvtu1c=
+		ifRy59F3PUEqLfUFlkYrZ+yhtyo=
 		</data>
 		<key>Headers/OmerM-Swift.h</key>
 		<data>
 		bNsYzHBmr8oe8TxVTZQjqVZmg+Y=
-		</data>
-		<key>Headers/OmerM.h</key>
-		<data>
-		81cRCIgJ4rPlenTC/V2/pKx+mP4=
 		</data>
 		<key>Heebo-Black.ttf</key>
 		<data>
@@ -152,6 +148,14 @@
 		<data>
 		42edrk11kCGIejxPnwrwxIyiOqY=
 		</data>
+		<key>PrivateHeaders/Constants.swift</key>
+		<data>
+		V7ZzSq0/AkEv9gGLyoRhRwWA0T0=
+		</data>
+		<key>PrivateHeaders/OmerM.h</key>
+		<data>
+		81cRCIgJ4rPlenTC/V2/pKx+mP4=
+		</data>
 		<key>loader.json</key>
 		<data>
 		DWO6mvWU8Xth5QxNv1LyhS7dBKw=
@@ -177,14 +181,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LHLZbhttoLFhk+gQOZoxoGbVKFmrQYEraAKUTSGz2Y0=
+			GIK4hULKs9YPWR8tc/LE/yKS723QtleitNenZuTPTNs=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qc00f0M78FsfXrmWDU90WdgDIXDEOHbzKykyyE2EUx0=
+			sja0LEy+sfib3f8UWpfP/LBu5x5JDcBPEBxgGNXUFko=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeRequirements</key>
@@ -198,7 +202,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Gi+xs1pRaKA0eKcefKA7v9K6fWVNEu3c1V1k53h+nc=
+			wTiX6pHsnfZ/Uu+NtzH1IHuw7eAuSobI1ylVzG9kcS0=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeResources</key>
@@ -212,7 +216,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cp4++zyeCKYt7EHqXoYakCRyWjS+gnlEEFAvraNQNuo=
+			q2hvU330l1OkI6c+S7udEEgNyTbAgrENAdPyp9mom2Y=
 			</data>
 		</dict>
 		<key>Headers/OmerM-Swift.h</key>
@@ -220,13 +224,6 @@
 			<key>hash2</key>
 			<data>
 			o7XNV2MEBtILzUqqOvKQF9KAGzEmQ3GOjx5Un8yjMoE=
-			</data>
-		</dict>
-		<key>Headers/OmerM.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vmJe89lj4GkkxiW02ey5kaJHDRxQYRTQJVEu3xIMDqQ=
 			</data>
 		</dict>
 		<key>Heebo-Black.ttf</key>
@@ -409,6 +406,20 @@
 			<key>hash2</key>
 			<data>
 			qQqOvijzwpBaRFVxZgEKPSGf/M4XA8PDKA6oco1eLr0=
+			</data>
+		</dict>
+		<key>PrivateHeaders/Constants.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nhMqpsZh2UUrGcIqOU+v+r7ld8PzKStm8tufsq6eC1w=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OmerM.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vmJe89lj4GkkxiW02ey5kaJHDRxQYRTQJVEu3xIMDqQ=
 			</data>
 		</dict>
 		<key>loader.json</key>
