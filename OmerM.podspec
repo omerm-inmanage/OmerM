@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.swift_version = '4.2'
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
   s.frameworks = 'OmerM'
-  s.source_files = 'OmerM.{h,m}'
+  # s.source_files = 'OmerM.{h,m}'
 
   # s.source_files = 'OmerM' 
   # s.ios.vendored_frameworks = 'OmerM.framework'
