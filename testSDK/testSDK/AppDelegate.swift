@@ -6,7 +6,8 @@
 //
 
 import UIKit
-import OmerM
+//import OmerM
+//import OmerM
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
