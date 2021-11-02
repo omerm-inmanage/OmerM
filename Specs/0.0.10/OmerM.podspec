@@ -15,7 +15,11 @@ Pod::Spec.new do |s|
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
   s.source_files = 'OmerM' 
   s.exclude_files = "Constrictor/Constrictor/*.plist"
-  s.resources = "Resources/**/*.{png,storyboard,xib,storyboard,xcassets}" 
+
+  s.resources = [
+            'OmerM/**/*.xcassets',
+            'OmerM/**/*.storyboard',
+            'OmerM/**/*.png']
 
   #pods
   s.dependency 'Alamofire'
