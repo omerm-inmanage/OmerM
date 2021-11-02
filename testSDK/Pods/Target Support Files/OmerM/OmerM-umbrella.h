@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "OmerM.h"
 
 FOUNDATION_EXPORT double OmerMVersionNumber;
 FOUNDATION_EXPORT const unsigned char OmerMVersionString[];

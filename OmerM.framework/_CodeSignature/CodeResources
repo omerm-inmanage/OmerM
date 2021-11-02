@@ -14,11 +14,11 @@
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/Pods_OmerM</key>
 		<data>
-		h3mwwW+pQzf/k2dK75s7P3g1mDg=
+		MEW1XcCyS7jMJm5QCD+po9hPLUI=
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		3fC5IGE2oE0eK0TMnQhu3MIax/8=
+		fd3qfxQm34fhdSzIWa/I7SFTf/0=
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		0ln35zXpOiDsLqP24WCjeTXA5zw=
+		RUucMEuddV5s0AOejPOlWg9U5is=
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		aywI0q5EtWqwNFqpjj97fubYVvE=
+		UUcV9nMQvT32JHuKNAcvqUvtu1c=
 		</data>
 		<key>Headers/OmerM-Swift.h</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BDcRT0N61uyKO6PpiRtLyQKvLDY=
+		qzjGuedq1rDH8gH+VU15M7SeGWg=
 		</data>
 		<key>MainS.storyboardc/BitViewController.nib</key>
 		<data>
-		FuLDrh/pZTf0rJmIQxACBZ92Oq4=
+		3uIV/ne4BDnFl0qw2+HBT5bWwQA=
 		</data>
 		<key>MainS.storyboardc/Info.plist</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>MainS.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
 		<data>
-		+ut0optmCmZSH2njHjOrM6SJJ6w=
+		V3LJUlnAei0AttMs/iXuoI0ujdg=
 		</data>
 		<key>MeshulamMain.storyboardc/BitStatusViewController.nib</key>
 		<data>
-		w6+9/xMquXquM11hk3LjBqCRGeE=
+		35IE5/MK7iGxoFTKq02nvYXGAWE=
 		</data>
 		<key>MeshulamMain.storyboardc/Info.plist</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>MeshulamMain.storyboardc/vRf-mA-fx9-view-Qn2-dw-2HA.nib</key>
 		<data>
-		UsMvsKkzs3jjweowUQLEt7Ksx9o=
+		1aKYfV0qf3Ax+xUuCCcNRWQ/fvM=
 		</data>
 		<key>MeshulamPopup.storyboardc/Info.plist</key>
 		<data>
@@ -106,19 +106,19 @@
 		</data>
 		<key>MeshulamPopup.storyboardc/MeshulamPopupViewController.nib</key>
 		<data>
-		IoTcJt5BPUclJC/KaHhy1mkZTuo=
+		BFU5Wyu1fBICsJ5YSYGfnZmBBzI=
 		</data>
 		<key>MeshulamPopup.storyboardc/N0f-o5-aju-view-BFh-wS-jCE.nib</key>
 		<data>
-		cCsL0eSLZ31LJiOKfeU69jPhB+E=
+		XEV0gqBxCCa/gqN4JPB/wzeuyWQ=
 		</data>
 		<key>Modules/OmerM.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		xwL/zom4509JY62/TkzZmSiKJP0=
+		df+TpTWfT5pWXl+/4FVdh1RMUn0=
 		</data>
 		<key>Modules/OmerM.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		xwL/zom4509JY62/TkzZmSiKJP0=
+		df+TpTWfT5pWXl+/4FVdh1RMUn0=
 		</data>
 		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		PTW3TfiEp1J+iua534qWeOtpaqE=
+		l0WiZzRqy8v0cufnzOhRXb3obxA=
 		</data>
 		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		n7YetaUeaCX3EztobdCghlXRR84=
+		g4fxXmc0p8LFVukYFKZJTBUY4V0=
 		</data>
 		<key>Modules/OmerM.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -138,11 +138,11 @@
 		</data>
 		<key>Modules/OmerM.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		PTW3TfiEp1J+iua534qWeOtpaqE=
+		l0WiZzRqy8v0cufnzOhRXb3obxA=
 		</data>
 		<key>Modules/OmerM.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		n7YetaUeaCX3EztobdCghlXRR84=
+		g4fxXmc0p8LFVukYFKZJTBUY4V0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -177,14 +177,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7HyhavQgBIFpwZSEZgGM5DNWuqnAzThJdu1gouvgFHM=
+			LHLZbhttoLFhk+gQOZoxoGbVKFmrQYEraAKUTSGz2Y0=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bo7YNdl9AzDg0WsvJzQdti5S3w46/E7bikPqFi0Fwi4=
+			Qc00f0M78FsfXrmWDU90WdgDIXDEOHbzKykyyE2EUx0=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeRequirements</key>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVW4gnsxlxZTkMgJrg43Zrt3ILcEvh17I6b+7lOr6iM=
+			8Gi+xs1pRaKA0eKcefKA7v9K6fWVNEu3c1V1k53h+nc=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_OmerM.framework/_CodeSignature/CodeResources</key>
@@ -212,7 +212,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PrSnpHI6HTwSRhWxZxy2F1NHDvpl7+/3rGK53+mxQrU=
+			cp4++zyeCKYt7EHqXoYakCRyWjS+gnlEEFAvraNQNuo=
 			</data>
 		</dict>
 		<key>Headers/OmerM-Swift.h</key>
@@ -282,7 +282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5grP7yGFRCz2z+Jd0DlFTsqcSGcj6wk52CnhNnTlNYQ=
+			w6k7xCgLOgP91BfqW1UclW42AKAs3hCLVYB6+szsuFE=
 			</data>
 		</dict>
 		<key>MainS.storyboardc/Info.plist</key>
@@ -296,14 +296,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KjyLNjXuam5QtI7waxqKa3jj3gyL7zZtNF1arehgPXs=
+			OCXmuswu+qHkjFf8bYAFxV3wCCVk6WeoM2+bam6JcjA=
 			</data>
 		</dict>
 		<key>MeshulamMain.storyboardc/BitStatusViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1lIozughEKdMJhPVdY3BoytQegHjgc/quoAA9nWwVw=
+			TQLp0NfyoqOnLoVkXYM9kQ5FkSh6XZOUpu3SW2bvxh0=
 			</data>
 		</dict>
 		<key>MeshulamMain.storyboardc/Info.plist</key>
@@ -317,7 +317,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g3BkPKPladdkGj3mKCLv02C3QNWCU/Rx7EAC6i6gnNE=
+			y6O5pvsDcYOB3BVg5wqZrc1jOQT14G/ksNUzkYrctB8=
 			</data>
 		</dict>
 		<key>MeshulamPopup.storyboardc/Info.plist</key>
@@ -331,28 +331,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vL92pcqIDvOpn63lVGa6put6ffZ1dRLkqBuZQoQyZRM=
+			fh/CZopHw0fs/l0GcnQsDmqyuGCBDH0R5ptKNimkpRs=
 			</data>
 		</dict>
 		<key>MeshulamPopup.storyboardc/N0f-o5-aju-view-BFh-wS-jCE.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+I8AoiSS6x/so6lG2jT/LtZMNjSYaClB5YcPDEI7ys=
+			6zRI844yWiSMn9JZWJTv135MVCOx0U6BOMGIUvjw7iY=
 			</data>
 		</dict>
 		<key>Modules/OmerM.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3z5z/7ugfwJLYQVmyjNTdBZezZs4VwbE7oilPPQblBk=
+			Zz78e+sM9jFt8xO4/qQl7rYO092KMYTEA1yvus+g6po=
 			</data>
 		</dict>
 		<key>Modules/OmerM.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3z5z/7ugfwJLYQVmyjNTdBZezZs4VwbE7oilPPQblBk=
+			Zz78e+sM9jFt8xO4/qQl7rYO092KMYTEA1yvus+g6po=
 			</data>
 		</dict>
 		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -366,14 +366,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCRGu+qRCFCDFjHTaQcWdsnbT7xycWNuO199iu1hlQc=
+			CJcLudwmMYWVOmUD/jFDzTakFfGHuTR8nz7AalgxY08=
 			</data>
 		</dict>
 		<key>Modules/OmerM.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U33RY+vuSxmmND796N8vqyNs8xsz/JRZy5JlGqDyv0M=
+			AvjZUFq7ownhCA+S7bg9EuyxO9eKgqCQHJPupHQMqMk=
 			</data>
 		</dict>
 		<key>Modules/OmerM.swiftmodule/arm64.swiftdoc</key>
@@ -387,14 +387,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCRGu+qRCFCDFjHTaQcWdsnbT7xycWNuO199iu1hlQc=
+			CJcLudwmMYWVOmUD/jFDzTakFfGHuTR8nz7AalgxY08=
 			</data>
 		</dict>
 		<key>Modules/OmerM.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U33RY+vuSxmmND796N8vqyNs8xsz/JRZy5JlGqDyv0M=
+			AvjZUFq7ownhCA+S7bg9EuyxO9eKgqCQHJPupHQMqMk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -8,10 +8,36 @@
 import UIKit
 import OmerM
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, MeshulamDelegate {
+    func setBitPaymentSuccess(_ transactionId: String) {
+        
+    }
+    
+    func settleSuspendedTransactionSuccess(response: String) {
+        
+    }
+    
+    func createPaymentProccesSuccess(_ processId: String, _ processToken: String) {
+        
+    }
+    
+    func getPaymentProcessInfoSuccess(response: String) {
+        
+    }
+    
+    func onFailure(_ error: String) {
+        
+    }
+    
+    func onCancel() {
+        
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
         
         // Do any additional setup after loading the view.
     }

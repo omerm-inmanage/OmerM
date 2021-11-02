@@ -6,19 +6,22 @@ PODS:
     - lottie-ios
 
 DEPENDENCIES:
-  - OmerM
+  - OmerM (from `../OmerM.podspec`)
 
 SPEC REPOS:
   trunk:
     - Alamofire
     - lottie-ios
-    - OmerM
+
+EXTERNAL SOURCES:
+  OmerM:
+    :path: "../OmerM.podspec"
 
 SPEC CHECKSUMS:
   Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
   lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
-  OmerM: 9e3ae345a672c8d8e8916a9eb1837b0ff2357937
+  OmerM: 05a4c030b7f7cd59d5f3b03d4865a379f49a4f57
 
-PODFILE CHECKSUM: 334e3bdaf3c3e0a1ee71531316897e177324b5a8
+PODFILE CHECKSUM: ea04ceab56fd3630cca5dba43c93c3dd0eadb821
 
 COCOAPODS: 1.11.0.beta.2

@@ -13,13 +13,25 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
   s.swift_version = '4.2'
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
-  s.source_files = 'OmerM' 
-  s.exclude_files = "Constrictor/Constrictor/*.plist"
+  # s.ios.vendored_frameworks = 'OmerM.framework'
 
-  s.resources = [
-            'OmerM/**/*.xcassets',
-            'OmerM/**/*.storyboard',
-            'OmerM/**/*.png']
+  s.exclude_files = "Constrictor/Constrictor/*.plist"
+  # s.static_framework = true
+  # s.requires_arc = true
+
+  s.xcconfig = { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
+  'ENABLE_BITCODE' => 'YES'
+  }
+  # s.source_files = 'OmerM' ֿ
+  s.source_files = 'OmerM/Main/**/*'
+  # s.source_files = 'OmerM/APi/**/*'
+  # s.source_files = 'OmerM/Extenstions/**/*'
+  # s.source_files = 'OmerM/GUI/**/*'
+  # s.source_files = 'OmerM/Objects/**/*'
+  # s.source_files = 'OmerM/Protocols/**/*'
+  # s.source_files = 'OmerM/Protocols/**/*'
+  # s.source_files = 'OmerM/Resources/**/*'
+  # s.source_files = 'OmerM/Validators/**/*'
 
   #pods
   s.dependency 'Alamofire'

@@ -5,7 +5,9 @@ target 'testSDK' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   
-  pod 'OmerM'
+#  pod 'OmerM'
+  pod 'OmerM', :path => '../OmerM.podspec'
+
 
 
 end
