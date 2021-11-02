@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "Omer m" => "omerm@inmanage.net" }
   s.ios.deployment_target = '11.0'
   s.source_files = 'OmerM' 
-  s.static_framework = true
+  # s.static_framework = true
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
 
     # s.frameworks = 'OmerM'
