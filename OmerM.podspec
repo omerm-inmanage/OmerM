@@ -11,7 +11,8 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "license" }
   s.author             = { "Omer m" => "omerm@inmanage.net" }
   s.ios.deployment_target = '11.0'
-  s.frameworks = 'OmerM'
+  # s.frameworks = 'OmerM'
+  s.ios.vendored_frameworks = 'OmerM.framework'
   s.static_framework = true
   s.source  = {   :git => 'https://github.com/omerm-inmanage/OmerM.git', :tag => s.version.to_s  }
 
