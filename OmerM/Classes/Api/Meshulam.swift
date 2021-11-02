@@ -100,15 +100,15 @@ import UIKit
     private func initCustomFont() {
         UIFont.jbs_registerFont(
             withFilenameString: "Heebo-Regular.ttf",
-            bundle: Bundle(identifier: "com.inmanage.MeshulamSDK")!
+            bundle: Bundle(identifier: "com.inmanage.OmerM")!
         )
         UIFont.jbs_registerFont(
             withFilenameString: "Heebo-Medium.ttf",
-            bundle: Bundle(identifier: "com.inmanage.MeshulamSDK")!
+            bundle: Bundle(identifier: "com.inmanage.OmerM")!
         )
         UIFont.jbs_registerFont(
             withFilenameString: "Heebo-Bold.ttf",
-            bundle: Bundle(identifier: "com.inmanage.MeshulamSDK")!
+            bundle: Bundle(identifier: "com.inmanage.OmerM")!
         )
     }
 }

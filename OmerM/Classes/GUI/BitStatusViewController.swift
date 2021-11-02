@@ -51,7 +51,7 @@ class BitStatusViewController: UIViewController {
     }
     
     private func configureAnimateView() {
-        let frameworkBundle = Bundle(identifier: "com.inmanage.MeshulamSDK")
+        let frameworkBundle = Bundle(identifier: "com.inmanage.OmerM")
         let bundle = frameworkBundle?.path(forResource: "loader", ofType: "json")
         if let b = bundle {
             animationView = .init(filePath: b)
