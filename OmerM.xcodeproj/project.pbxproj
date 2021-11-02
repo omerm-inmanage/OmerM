@@ -147,8 +147,6 @@
 		C7E4984C268B1A2800B6CA8B /* OmerM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OmerM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7E4984F268B1A2800B6CA8B /* OmerM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OmerM.h; sourceTree = "<group>"; };
 		C7E49850268B1A2800B6CA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C7E4985A268B1A2900B6CA8B /* OmerMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OmerMTests.swift; sourceTree = "<group>"; };
-		C7E4985C268B1A2900B6CA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -278,7 +276,6 @@
 		C7C2E2482730299400C1CFFD /* Managers */ = {
 			isa = PBXGroup;
 			children = (
-				C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */,
 				C7C2E24A2730299400C1CFFD /* MeshulamPaymentManager.swift */,
 				C7C2E24B2730299400C1CFFD /* MeshulamStartupManager.swift */,
 				C7C2E24C2730299400C1CFFD /* MeshulamPopupManager.swift */,
@@ -319,7 +316,6 @@
 			children = (
 				C7E4984E268B1A2800B6CA8B /* OmerM */,
 				C7C2E29427302B3D00C1CFFD /* BdikaViewController.swift */,
-				C7E49859268B1A2900B6CA8B /* OmerMTests */,
 				C7E4984D268B1A2800B6CA8B /* Products */,
 				3FD9F85D8A60553037B07562 /* Pods */,
 				6CECCE4D48D81F31F4B89358 /* Frameworks */,
@@ -344,6 +340,7 @@
 				C7C2E2222730299300C1CFFD /* Extenstions */,
 				C7C2E22C2730299400C1CFFD /* Gallery.xcassets */,
 				C7C2E2292730299300C1CFFD /* GUI */,
+				C7C2E2492730299400C1CFFD /* MeshulamNetworkManager.swift */,
 				C7C2E2482730299400C1CFFD /* Managers */,
 				C7C2E2192730299300C1CFFD /* Objects */,
 				C7C2E21D2730299300C1CFFD /* Protocols */,
@@ -351,15 +348,6 @@
 				C7C2E21B2730299300C1CFFD /* Validators */,
 			);
 			path = OmerM;
-			sourceTree = "<group>";
-		};
-		C7E49859268B1A2900B6CA8B /* OmerMTests */ = {
-			isa = PBXGroup;
-			children = (
-				C7E4985A268B1A2900B6CA8B /* OmerMTests.swift */,
-				C7E4985C268B1A2900B6CA8B /* Info.plist */,
-			);
-			path = OmerMTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

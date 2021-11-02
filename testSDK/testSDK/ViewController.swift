@@ -6,16 +6,19 @@
 //
 
 import UIKit
-//import OmerM
-//import OmerM
+import OmerM
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         // Do any additional setup after loading the view.
     }
 
 
 }
-
+//
+//
+//extension ViewController: MeshulamDelegate {
+//}

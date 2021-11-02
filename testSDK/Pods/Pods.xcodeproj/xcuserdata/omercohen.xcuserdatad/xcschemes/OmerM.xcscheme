@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E1FF1E7F6A9233D34F6C8813F599F5CE"
-               BuildableName = "OmerM"
+               BuildableName = "OmerM.framework"
                BlueprintName = "OmerM"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

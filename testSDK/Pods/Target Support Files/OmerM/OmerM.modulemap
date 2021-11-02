@@ -1,0 +1,6 @@
+framework module OmerM {
+  umbrella header "OmerM-umbrella.h"
+
+  export *
+  module * { export * }
+}
