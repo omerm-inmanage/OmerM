@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
    # Need to set this if you use ARC (Automatic Reference Counting)
    s.requires_arc = true
-   s.static_framework = true
+  #  s.static_framework = true
 
   s.xcconfig = { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
   'ENABLE_BITCODE' => 'NO'
